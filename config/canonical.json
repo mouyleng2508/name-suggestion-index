@@ -1,6 +1,6 @@
 {
   "amenity/bank|ABANCA": {
-    "count": 102,
+    "count": 119,
     "countryCodes": ["es"],
     "match": ["amenity/bank|Abanca"],
     "tags": {
@@ -22,7 +22,7 @@
     }
   },
   "amenity/bank|ABSA": {
-    "count": 115,
+    "count": 117,
     "tags": {
       "amenity": "bank",
       "brand": "ABSA",
@@ -32,7 +32,7 @@
     }
   },
   "amenity/bank|AIB": {
-    "count": 94,
+    "count": 98,
     "countryCodes": ["ir"],
     "tags": {
       "amenity": "bank",
@@ -43,7 +43,7 @@
     }
   },
   "amenity/bank|ANZ": {
-    "count": 386,
+    "count": 397,
     "countryCodes": ["au", "nz"],
     "match": ["amenity/bank|ANZ Bank"],
     "tags": {
@@ -55,7 +55,7 @@
     }
   },
   "amenity/bank|ASB Bank": {
-    "count": 51,
+    "count": 52,
     "countryCodes": ["nz"],
     "tags": {
       "amenity": "bank",
@@ -66,7 +66,7 @@
     }
   },
   "amenity/bank|ATB Financial": {
-    "count": 76,
+    "count": 81,
     "countryCodes": ["ca"],
     "tags": {
       "amenity": "bank",
@@ -77,7 +77,7 @@
     }
   },
   "amenity/bank|AXA": {
-    "count": 124,
+    "count": 136,
     "tags": {
       "amenity": "bank",
       "brand": "AXA",
@@ -87,7 +87,7 @@
     }
   },
   "amenity/bank|Access Bank": {
-    "nocount": true,
+    "count": 51,
     "tags": {
       "amenity": "bank",
       "brand:wikidata": "Q4672420",
@@ -107,7 +107,7 @@
     }
   },
   "amenity/bank|Agribank": {
-    "count": 73,
+    "count": 78,
     "countryCodes": ["us"],
     "tags": {
       "amenity": "bank",
@@ -118,7 +118,7 @@
     }
   },
   "amenity/bank|Akbank": {
-    "count": 177,
+    "count": 194,
     "tags": {
       "amenity": "bank",
       "brand": "Akbank",
@@ -128,7 +128,7 @@
     }
   },
   "amenity/bank|Alior Bank": {
-    "count": 229,
+    "count": 242,
     "countryCodes": ["pl"],
     "tags": {
       "amenity": "bank",
@@ -139,7 +139,7 @@
     }
   },
   "amenity/bank|Allahabad Bank": {
-    "count": 60,
+    "count": 63,
     "countryCodes": ["in"],
     "tags": {
       "amenity": "bank",
@@ -150,7 +150,7 @@
     }
   },
   "amenity/bank|Allied Bank": {
-    "count": 135,
+    "count": 137,
     "tags": {
       "amenity": "bank",
       "brand": "Allied Bank",
@@ -160,7 +160,7 @@
     }
   },
   "amenity/bank|Alpha Bank": {
-    "count": 376,
+    "count": 404,
     "tags": {
       "amenity": "bank",
       "brand": "Alpha Bank",
@@ -170,7 +170,7 @@
     }
   },
   "amenity/bank|Andhra Bank": {
-    "count": 106,
+    "count": 121,
     "countryCodes": ["in"],
     "tags": {
       "amenity": "bank",
@@ -181,7 +181,7 @@
     }
   },
   "amenity/bank|Antonveneta": {
-    "count": 56,
+    "count": 54,
     "countryCodes": ["it"],
     "tags": {
       "amenity": "bank",
@@ -192,7 +192,7 @@
     }
   },
   "amenity/bank|Argenta": {
-    "count": 155,
+    "count": 162,
     "tags": {
       "amenity": "bank",
       "brand": "Argenta",
@@ -202,7 +202,7 @@
     }
   },
   "amenity/bank|Arvest Bank": {
-    "count": 55,
+    "count": 58,
     "countryCodes": ["us"],
     "tags": {
       "amenity": "bank",
@@ -235,7 +235,7 @@
     }
   },
   "amenity/bank|Associated Bank": {
-    "count": 71,
+    "count": 87,
     "countryCodes": ["us"],
     "tags": {
       "amenity": "bank",
@@ -246,7 +246,7 @@
     }
   },
   "amenity/bank|Attijariwafa Bank": {
-    "count": 284,
+    "count": 287,
     "tags": {
       "amenity": "bank",
       "brand": "Attijariwafa Bank",
@@ -256,7 +256,7 @@
     }
   },
   "amenity/bank|Axis Bank": {
-    "count": 234,
+    "count": 250,
     "tags": {
       "amenity": "bank",
       "brand": "Axis Bank",
@@ -276,7 +276,7 @@
     }
   },
   "amenity/bank|BAWAG PSK": {
-    "count": 95,
+    "count": 97,
     "tags": {
       "amenity": "bank",
       "brand": "BAWAG PSK",
@@ -286,7 +286,7 @@
     }
   },
   "amenity/bank|BB&T": {
-    "count": 538,
+    "count": 572,
     "countryCodes": ["us"],
     "tags": {
       "amenity": "bank",
@@ -297,7 +297,7 @@
     }
   },
   "amenity/bank|BBBank": {
-    "count": 60,
+    "count": 61,
     "countryCodes": ["de"],
     "tags": {
       "amenity": "bank",
@@ -308,7 +308,7 @@
     }
   },
   "amenity/bank|BBVA": {
-    "count": 1618,
+    "count": 1629,
     "tags": {
       "amenity": "bank",
       "brand": "BBVA",
@@ -318,7 +318,7 @@
     }
   },
   "amenity/bank|BBVA Bancomer": {
-    "count": 226,
+    "count": 244,
     "countryCodes": ["mx"],
     "tags": {
       "amenity": "bank",
@@ -329,7 +329,7 @@
     }
   },
   "amenity/bank|BBVA Compass": {
-    "count": 101,
+    "count": 110,
     "countryCodes": ["us"],
     "tags": {
       "amenity": "bank",
@@ -340,7 +340,7 @@
     }
   },
   "amenity/bank|BBVA Continental": {
-    "count": 90,
+    "count": 92,
     "countryCodes": ["pe"],
     "tags": {
       "amenity": "bank",
@@ -351,7 +351,7 @@
     }
   },
   "amenity/bank|BBVA Francés": {
-    "count": 169,
+    "count": 168,
     "countryCodes": ["es"],
     "tags": {
       "amenity": "bank",
@@ -373,7 +373,7 @@
     }
   },
   "amenity/bank|BCI": {
-    "count": 154,
+    "count": 158,
     "match": ["amenity/bank|Banco BCI"],
     "tags": {
       "amenity": "bank",
@@ -456,7 +456,7 @@
     }
   },
   "amenity/bank|BCR": {
-    "count": 246,
+    "count": 250,
     "countryCodes": ["cr"],
     "match": ["amenity/bank|Banco de Costa Rica"],
     "tags": {
@@ -468,7 +468,7 @@
     }
   },
   "amenity/bank|BDO": {
-    "count": 579,
+    "count": 600,
     "countryCodes": ["ph"],
     "tags": {
       "amenity": "bank",
@@ -479,7 +479,7 @@
     }
   },
   "amenity/bank|BGŻ BNP Paribas": {
-    "count": 108,
+    "count": 121,
     "countryCodes": ["pl"],
     "tags": {
       "amenity": "bank",
@@ -490,7 +490,7 @@
     }
   },
   "amenity/bank|BMCE Bank": {
-    "count": 250,
+    "count": 251,
     "match": ["amenity/bank|BMCE"],
     "tags": {
       "amenity": "bank",
@@ -501,7 +501,7 @@
     }
   },
   "amenity/bank|BMCI": {
-    "count": 125,
+    "count": 129,
     "match": ["amenity/bank|BMCI Bank"],
     "tags": {
       "amenity": "bank",
@@ -512,7 +512,7 @@
     }
   },
   "amenity/bank|BMN": {
-    "count": 74,
+    "count": 69,
     "countryCodes": ["es"],
     "tags": {
       "amenity": "bank",
@@ -523,7 +523,7 @@
     }
   },
   "amenity/bank|BMO": {
-    "count": 218,
+    "count": 229,
     "match": [
       "amenity/bank|BMO Bank of Montreal"
     ],
@@ -536,7 +536,7 @@
     }
   },
   "amenity/bank|BMO Harris Bank": {
-    "count": 102,
+    "count": 112,
     "countryCodes": ["us"],
     "tags": {
       "amenity": "bank",
@@ -547,7 +547,7 @@
     }
   },
   "amenity/bank|BNA": {
-    "count": 68,
+    "count": 71,
     "countryCodes": ["dz"],
     "tags": {
       "amenity": "bank",
@@ -558,7 +558,7 @@
     }
   },
   "amenity/bank|BNI": {
-    "count": 226,
+    "count": 235,
     "match": ["amenity/bank|Bank BNI"],
     "tags": {
       "amenity": "bank",
@@ -569,7 +569,7 @@
     }
   },
   "amenity/bank|BNL": {
-    "count": 184,
+    "count": 191,
     "countryCodes": ["it"],
     "tags": {
       "amenity": "bank",
@@ -580,7 +580,7 @@
     }
   },
   "amenity/bank|BNP Paribas": {
-    "count": 1223,
+    "count": 1239,
     "tags": {
       "amenity": "bank",
       "brand": "BNP Paribas",
@@ -590,7 +590,7 @@
     }
   },
   "amenity/bank|BNP Paribas Fortis": {
-    "count": 329,
+    "count": 332,
     "tags": {
       "amenity": "bank",
       "brand": "BNP Paribas Fortis",
@@ -600,7 +600,7 @@
     }
   },
   "amenity/bank|BOC": {
-    "count": 102,
+    "count": 103,
     "tags": {
       "amenity": "bank",
       "brand": "BOC",
@@ -610,7 +610,7 @@
     }
   },
   "amenity/bank|BPI": {
-    "count": 595,
+    "count": 617,
     "match": [
       "amenity/bank|BPI Family Savings Bank",
       "amenity/bank|Bank of the Philippine Islands"
@@ -624,7 +624,7 @@
     }
   },
   "amenity/bank|BRD": {
-    "count": 298,
+    "count": 303,
     "countryCodes": ["ro"],
     "tags": {
       "amenity": "bank",
@@ -635,7 +635,7 @@
     }
   },
   "amenity/bank|BRED": {
-    "count": 82,
+    "count": 86,
     "tags": {
       "amenity": "bank",
       "brand": "BRED",
@@ -645,7 +645,7 @@
     }
   },
   "amenity/bank|BRI": {
-    "count": 335,
+    "count": 343,
     "countryCodes": ["id"],
     "match": ["amenity/bank|Bank BRI"],
     "tags": {
@@ -670,7 +670,7 @@
     }
   },
   "amenity/bank|BW-Bank": {
-    "count": 92,
+    "count": 94,
     "countryCodes": ["de"],
     "match": ["Baden-Württembergische Bank"],
     "tags": {
@@ -684,7 +684,7 @@
     }
   },
   "amenity/bank|Banamex": {
-    "count": 427,
+    "count": 445,
     "countryCodes": ["mx"],
     "tags": {
       "amenity": "bank",
@@ -695,7 +695,7 @@
     }
   },
   "amenity/bank|Banca Intesa": {
-    "count": 103,
+    "count": 102,
     "countryCodes": ["rs"],
     "tags": {
       "amenity": "bank",
@@ -706,7 +706,7 @@
     }
   },
   "amenity/bank|Banca March": {
-    "count": 62,
+    "count": 64,
     "countryCodes": ["es"],
     "tags": {
       "amenity": "bank",
@@ -717,7 +717,7 @@
     }
   },
   "amenity/bank|Banca Popolare di Milano": {
-    "count": 123,
+    "count": 127,
     "countryCodes": ["it"],
     "match": ["amenity/bank|BPM"],
     "tags": {
@@ -729,7 +729,7 @@
     }
   },
   "amenity/bank|Banca Popolare di Novara": {
-    "count": 89,
+    "count": 88,
     "countryCodes": ["it"],
     "tags": {
       "amenity": "bank",
@@ -740,7 +740,7 @@
     }
   },
   "amenity/bank|Banca Popolare di Sondrio": {
-    "count": 130,
+    "count": 135,
     "countryCodes": ["it"],
     "tags": {
       "amenity": "bank",
@@ -751,7 +751,7 @@
     }
   },
   "amenity/bank|Banca Popolare di Verona": {
-    "count": 63,
+    "count": 65,
     "tags": {
       "amenity": "bank",
       "brand": "Banca Popolare di Verona",
@@ -761,7 +761,7 @@
     }
   },
   "amenity/bank|Banca Popolare di Vicenza": {
-    "count": 93,
+    "count": 89,
     "tags": {
       "amenity": "bank",
       "brand": "Banca Popolare di Vicenza",
@@ -771,7 +771,7 @@
     }
   },
   "amenity/bank|Banca Românească": {
-    "count": 60,
+    "count": 62,
     "countryCodes": ["ro"],
     "tags": {
       "amenity": "bank",
@@ -782,7 +782,7 @@
     }
   },
   "amenity/bank|Banca Sella": {
-    "count": 63,
+    "count": 65,
     "countryCodes": ["it"],
     "tags": {
       "amenity": "bank",
@@ -793,7 +793,7 @@
     }
   },
   "amenity/bank|Banca Transilvania": {
-    "count": 177,
+    "count": 190,
     "countryCodes": ["ro"],
     "tags": {
       "amenity": "bank",
@@ -804,7 +804,7 @@
     }
   },
   "amenity/bank|Bancaribe": {
-    "count": 58,
+    "count": 59,
     "countryCodes": ["ve"],
     "tags": {
       "amenity": "bank",
@@ -815,7 +815,7 @@
     }
   },
   "amenity/bank|Banco AV Villas": {
-    "count": 62,
+    "count": 64,
     "countryCodes": ["co"],
     "tags": {
       "amenity": "bank",
@@ -826,7 +826,7 @@
     }
   },
   "amenity/bank|Banco Agrario": {
-    "count": 81,
+    "count": 87,
     "countryCodes": ["co"],
     "tags": {
       "amenity": "bank",
@@ -837,7 +837,7 @@
     }
   },
   "amenity/bank|Banco Agrario de Colombia": {
-    "count": 68,
+    "count": 74,
     "countryCodes": ["co"],
     "tags": {
       "amenity": "bank",
@@ -848,7 +848,7 @@
     }
   },
   "amenity/bank|Banco Azteca": {
-    "count": 157,
+    "count": 164,
     "tags": {
       "amenity": "bank",
       "brand": "Banco Azteca",
@@ -868,7 +868,7 @@
     }
   },
   "amenity/bank|Banco Caja Social": {
-    "count": 73,
+    "count": 76,
     "countryCodes": ["co"],
     "tags": {
       "amenity": "bank",
@@ -890,7 +890,7 @@
     }
   },
   "amenity/bank|Banco Continental": {
-    "count": 65,
+    "count": 68,
     "countryCodes": ["pe"],
     "tags": {
       "amenity": "bank",
@@ -901,7 +901,7 @@
     }
   },
   "amenity/bank|Banco Estado": {
-    "count": 160,
+    "count": 167,
     "countryCodes": ["cl"],
     "match": ["amenity/bank|BancoEstado"],
     "tags": {
@@ -913,7 +913,7 @@
     }
   },
   "amenity/bank|Banco Falabella": {
-    "count": 60,
+    "count": 61,
     "countryCodes": ["cl", "co", "pe"],
     "nomatch": [
       "shop/department_store|Falabella"
@@ -927,7 +927,7 @@
     }
   },
   "amenity/bank|Banco Fassil": {
-    "count": 66,
+    "count": 69,
     "tags": {
       "amenity": "bank",
       "brand": "Banco Fassil",
@@ -945,7 +945,7 @@
     }
   },
   "amenity/bank|Banco General": {
-    "count": 58,
+    "count": 57,
     "countryCodes": ["cr", "pa"],
     "tags": {
       "amenity": "bank",
@@ -956,7 +956,7 @@
     }
   },
   "amenity/bank|Banco Industrial": {
-    "count": 100,
+    "count": 101,
     "tags": {
       "amenity": "bank",
       "brand": "Banco Industrial",
@@ -966,7 +966,7 @@
     }
   },
   "amenity/bank|Banco Internacional": {
-    "count": 64,
+    "count": 65,
     "tags": {
       "amenity": "bank",
       "brand": "Banco Internacional",
@@ -974,7 +974,7 @@
     }
   },
   "amenity/bank|Banco Metropolitano": {
-    "count": 53,
+    "count": 55,
     "countryCodes": ["cu"],
     "tags": {
       "amenity": "bank",
@@ -983,7 +983,7 @@
     }
   },
   "amenity/bank|Banco Nacional": {
-    "count": 152,
+    "count": 158,
     "tags": {
       "amenity": "bank",
       "brand": "Banco Nacional",
@@ -993,7 +993,7 @@
     }
   },
   "amenity/bank|Banco Nación": {
-    "count": 465,
+    "count": 476,
     "tags": {
       "amenity": "bank",
       "brand": "Banco Nación",
@@ -1003,7 +1003,7 @@
     }
   },
   "amenity/bank|Banco Pastor": {
-    "count": 74,
+    "count": 82,
     "countryCodes": ["es"],
     "tags": {
       "amenity": "bank",
@@ -1014,7 +1014,7 @@
     }
   },
   "amenity/bank|Banco Pichincha": {
-    "count": 132,
+    "count": 156,
     "tags": {
       "amenity": "bank",
       "brand": "Banco Pichincha",
@@ -1024,7 +1024,7 @@
     }
   },
   "amenity/bank|Banco Popular": {
-    "count": 686,
+    "count": 699,
     "countryCodes": ["pr", "us", "vi"],
     "match": ["amenity/bank|Popular"],
     "tags": {
@@ -1036,7 +1036,7 @@
     }
   },
   "amenity/bank|Banco Popular de Ahorro": {
-    "count": 58,
+    "count": 60,
     "countryCodes": ["cu"],
     "tags": {
       "amenity": "bank",
@@ -1045,7 +1045,7 @@
     }
   },
   "amenity/bank|Banco Provincia": {
-    "count": 165,
+    "count": 191,
     "tags": {
       "amenity": "bank",
       "brand": "Banco Provincia",
@@ -1055,7 +1055,7 @@
     }
   },
   "amenity/bank|Banco Sabadell": {
-    "count": 213,
+    "count": 222,
     "match": [
       "amenity/bank|Banc Sabadell",
       "amenity/bank|Sabadell"
@@ -1069,7 +1069,7 @@
     }
   },
   "amenity/bank|Banco Santa Fe": {
-    "count": 69,
+    "count": 70,
     "tags": {
       "amenity": "bank",
       "brand": "Banco Santa Fe",
@@ -1079,7 +1079,7 @@
     }
   },
   "amenity/bank|Banco Santander": {
-    "count": 180,
+    "count": 214,
     "nomatch": ["amenity/bank|Santander"],
     "tags": {
       "amenity": "bank",
@@ -1090,7 +1090,7 @@
     }
   },
   "amenity/bank|Banco Sol": {
-    "count": 87,
+    "count": 101,
     "tags": {
       "amenity": "bank",
       "brand": "Banco Sol",
@@ -1098,7 +1098,7 @@
     }
   },
   "amenity/bank|Banco Unión": {
-    "count": 52,
+    "count": 53,
     "nomatch": [
       "amenity/bank|UnionBank",
       "amenity/money_transfer|Express Union"
@@ -1110,7 +1110,7 @@
     }
   },
   "amenity/bank|Banco de Bogotá": {
-    "count": 166,
+    "count": 181,
     "match": ["amenity/bank|Banco de Bogota"],
     "tags": {
       "amenity": "bank",
@@ -1121,7 +1121,7 @@
     }
   },
   "amenity/bank|Banco de Chile": {
-    "count": 188,
+    "count": 189,
     "tags": {
       "amenity": "bank",
       "brand": "Banco de Chile",
@@ -1141,14 +1141,14 @@
     }
   },
   "amenity/bank|Banco de Fomento Angola (BFA)": {
-    "nocount": true,
+    "count": 65,
     "tags": {
       "amenity": "bank",
       "name": "Banco de Fomento Angola (BFA)"
     }
   },
   "amenity/bank|Banco de Occidente": {
-    "count": 120,
+    "count": 125,
     "tags": {
       "amenity": "bank",
       "brand": "Banco de Occidente",
@@ -1158,7 +1158,7 @@
     }
   },
   "amenity/bank|Banco de Venezuela": {
-    "count": 98,
+    "count": 99,
     "match": ["amenity/bank|De Venezuela"],
     "tags": {
       "amenity": "bank",
@@ -1169,7 +1169,7 @@
     }
   },
   "amenity/bank|Banco de la Nación": {
-    "count": 182,
+    "count": 193,
     "tags": {
       "amenity": "bank",
       "brand": "Banco de la Nación",
@@ -1187,7 +1187,7 @@
     }
   },
   "amenity/bank|Banco di Napoli": {
-    "count": 87,
+    "count": 93,
     "tags": {
       "amenity": "bank",
       "brand": "Banco di Napoli",
@@ -1197,7 +1197,7 @@
     }
   },
   "amenity/bank|Banco di Sardegna": {
-    "count": 89,
+    "count": 91,
     "tags": {
       "amenity": "bank",
       "brand": "Banco di Sardegna",
@@ -1207,7 +1207,7 @@
     }
   },
   "amenity/bank|Banco do Brasil": {
-    "count": 1566,
+    "count": 1639,
     "tags": {
       "amenity": "bank",
       "brand": "Banco do Brasil",
@@ -1217,7 +1217,7 @@
     }
   },
   "amenity/bank|Banco do Nordeste": {
-    "count": 72,
+    "count": 79,
     "tags": {
       "amenity": "bank",
       "brand": "Banco do Nordeste",
@@ -1227,7 +1227,7 @@
     }
   },
   "amenity/bank|Bancolombia": {
-    "count": 232,
+    "count": 251,
     "tags": {
       "amenity": "bank",
       "brand": "Bancolombia",
@@ -1237,7 +1237,7 @@
     }
   },
   "amenity/bank|Bancomer": {
-    "count": 259,
+    "count": 274,
     "tags": {
       "amenity": "bank",
       "brand": "Bancomer",
@@ -1247,7 +1247,7 @@
     }
   },
   "amenity/bank|Bancpost": {
-    "count": 80,
+    "count": 79,
     "nomatch": ["amenity/bank|Postbank"],
     "tags": {
       "amenity": "bank",
@@ -1258,7 +1258,7 @@
     }
   },
   "amenity/bank|Banesco": {
-    "count": 219,
+    "count": 221,
     "tags": {
       "amenity": "bank",
       "brand": "Banesco",
@@ -1268,7 +1268,7 @@
     }
   },
   "amenity/bank|Bangkok Bank": {
-    "count": 75,
+    "count": 83,
     "tags": {
       "amenity": "bank",
       "brand": "Bangkok Bank",
@@ -1278,7 +1278,7 @@
     }
   },
   "amenity/bank|Bank Al Habib": {
-    "count": 89,
+    "count": 90,
     "tags": {
       "amenity": "bank",
       "brand": "Bank Al Habib",
@@ -1288,7 +1288,7 @@
     }
   },
   "amenity/bank|Bank Alfalah": {
-    "count": 104,
+    "count": 105,
     "tags": {
       "amenity": "bank",
       "brand": "Bank Alfalah",
@@ -1298,7 +1298,7 @@
     }
   },
   "amenity/bank|Bank Austria": {
-    "count": 120,
+    "count": 119,
     "tags": {
       "amenity": "bank",
       "brand": "Bank Austria",
@@ -1308,7 +1308,7 @@
     }
   },
   "amenity/bank|Bank Danamon": {
-    "count": 94,
+    "count": 95,
     "tags": {
       "amenity": "bank",
       "brand": "Bank Danamon",
@@ -1318,7 +1318,7 @@
     }
   },
   "amenity/bank|Bank Mandiri": {
-    "count": 335,
+    "count": 344,
     "tags": {
       "amenity": "bank",
       "brand": "Bank Mandiri",
@@ -1338,7 +1338,7 @@
     }
   },
   "amenity/bank|Bank Mega": {
-    "count": 79,
+    "count": 80,
     "tags": {
       "amenity": "bank",
       "brand": "Bank Mega",
@@ -1348,7 +1348,7 @@
     }
   },
   "amenity/bank|Bank Muamalat": {
-    "count": 65,
+    "count": 67,
     "tags": {
       "amenity": "bank",
       "brand": "Bank Muamalat",
@@ -1358,8 +1358,8 @@
     }
   },
   "amenity/bank|Bank Pekao": {
+    "count": 53,
     "countryCodes": ["pl"],
-    "nocount": true,
     "tags": {
       "amenity": "bank",
       "brand": "Bank Pekao",
@@ -1369,7 +1369,7 @@
     }
   },
   "amenity/bank|Bank Rakyat": {
-    "count": 52,
+    "count": 55,
     "tags": {
       "amenity": "bank",
       "brand": "Bank Rakyat",
@@ -1379,7 +1379,7 @@
     }
   },
   "amenity/bank|Bank of Africa": {
-    "count": 77,
+    "count": 83,
     "match": ["Agence BOA", "BOA"],
     "tags": {
       "amenity": "bank",
@@ -1391,7 +1391,7 @@
     }
   },
   "amenity/bank|Bank of America": {
-    "count": 2041,
+    "count": 2131,
     "tags": {
       "amenity": "bank",
       "brand": "Bank of America",
@@ -1401,7 +1401,7 @@
     }
   },
   "amenity/bank|Bank of Baroda": {
-    "count": 138,
+    "count": 142,
     "tags": {
       "amenity": "bank",
       "brand": "Bank of Baroda",
@@ -1411,7 +1411,7 @@
     }
   },
   "amenity/bank|Bank of Ceylon": {
-    "count": 92,
+    "count": 97,
     "tags": {
       "amenity": "bank",
       "brand": "Bank of Ceylon",
@@ -1421,7 +1421,7 @@
     }
   },
   "amenity/bank|Bank of China": {
-    "count": 163,
+    "count": 159,
     "tags": {
       "amenity": "bank",
       "brand": "Bank of China",
@@ -1431,7 +1431,7 @@
     }
   },
   "amenity/bank|Bank of Commerce": {
-    "count": 73,
+    "count": 74,
     "tags": {
       "amenity": "bank",
       "brand": "Bank of Commerce",
@@ -1441,7 +1441,7 @@
     }
   },
   "amenity/bank|Bank of Cyprus": {
-    "count": 64,
+    "count": 65,
     "tags": {
       "amenity": "bank",
       "brand": "Bank of Cyprus",
@@ -1451,7 +1451,7 @@
     }
   },
   "amenity/bank|Bank of India": {
-    "count": 135,
+    "count": 141,
     "tags": {
       "amenity": "bank",
       "brand": "Bank of India",
@@ -1461,7 +1461,7 @@
     }
   },
   "amenity/bank|Bank of Ireland": {
-    "count": 172,
+    "count": 174,
     "tags": {
       "amenity": "bank",
       "brand": "Bank of Ireland",
@@ -1471,7 +1471,7 @@
     }
   },
   "amenity/bank|Bank of Maharashtra": {
-    "count": 52,
+    "count": 59,
     "tags": {
       "amenity": "bank",
       "brand": "Bank of Maharashtra",
@@ -1481,7 +1481,7 @@
     }
   },
   "amenity/bank|Bank of Montreal": {
-    "count": 161,
+    "count": 155,
     "tags": {
       "amenity": "bank",
       "brand": "Bank of Montreal",
@@ -1501,7 +1501,7 @@
     }
   },
   "amenity/bank|Bank of Scotland": {
-    "count": 117,
+    "count": 121,
     "tags": {
       "amenity": "bank",
       "brand": "Bank of Scotland",
@@ -1511,7 +1511,7 @@
     }
   },
   "amenity/bank|Bank of the West": {
-    "count": 190,
+    "count": 199,
     "tags": {
       "amenity": "bank",
       "brand": "Bank of the West",
@@ -1521,7 +1521,7 @@
     }
   },
   "amenity/bank|Bankia": {
-    "count": 731,
+    "count": 757,
     "tags": {
       "amenity": "bank",
       "brand": "Bankia",
@@ -1531,7 +1531,7 @@
     }
   },
   "amenity/bank|Bankinter": {
-    "count": 167,
+    "count": 173,
     "nomatch": ["amenity/bank|Interbank"],
     "tags": {
       "amenity": "bank",
@@ -1542,7 +1542,7 @@
     }
   },
   "amenity/bank|Banner Bank": {
-    "count": 63,
+    "count": 71,
     "tags": {
       "amenity": "bank",
       "brand": "Banner Bank",
@@ -1552,7 +1552,7 @@
     }
   },
   "amenity/bank|Banorte": {
-    "count": 332,
+    "count": 341,
     "tags": {
       "amenity": "bank",
       "brand": "Banorte",
@@ -1562,7 +1562,7 @@
     }
   },
   "amenity/bank|Banque Atlantique": {
-    "count": 67,
+    "count": 75,
     "tags": {
       "amenity": "bank",
       "brand": "Banque Atlantique",
@@ -1572,7 +1572,7 @@
     }
   },
   "amenity/bank|Banque Laurentienne": {
-    "count": 55,
+    "count": 57,
     "tags": {
       "amenity": "bank",
       "brand": "Banque Laurentienne",
@@ -1582,7 +1582,7 @@
     }
   },
   "amenity/bank|Banque Nationale": {
-    "count": 154,
+    "count": 165,
     "tags": {
       "amenity": "bank",
       "brand": "Banque Nationale",
@@ -1590,7 +1590,7 @@
     }
   },
   "amenity/bank|Banque Populaire": {
-    "count": 1111,
+    "count": 1146,
     "match": ["amenity/bank|Banque populaire"],
     "tags": {
       "amenity": "bank",
@@ -1601,7 +1601,7 @@
     }
   },
   "amenity/bank|Banrisul": {
-    "count": 143,
+    "count": 151,
     "tags": {
       "amenity": "bank",
       "brand": "Banrisul",
@@ -1611,7 +1611,7 @@
     }
   },
   "amenity/bank|Banrural": {
-    "count": 92,
+    "count": 102,
     "tags": {
       "amenity": "bank",
       "brand": "Banrural",
@@ -1619,7 +1619,7 @@
     }
   },
   "amenity/bank|Barclays": {
-    "count": 1144,
+    "count": 1135,
     "match": ["amenity/bank|Barclays Bank"],
     "tags": {
       "amenity": "bank",
@@ -1630,7 +1630,7 @@
     }
   },
   "amenity/bank|Bcc": {
-    "count": 59,
+    "count": 57,
     "tags": {
       "amenity": "bank",
       "brand": "Bcc",
@@ -1638,7 +1638,7 @@
     }
   },
   "amenity/bank|Belfius": {
-    "count": 297,
+    "count": 315,
     "tags": {
       "amenity": "bank",
       "brand": "Belfius",
@@ -1648,7 +1648,7 @@
     }
   },
   "amenity/bank|Bendigo Bank": {
-    "count": 160,
+    "count": 164,
     "tags": {
       "amenity": "bank",
       "brand": "Bendigo Bank",
@@ -1658,7 +1658,7 @@
     }
   },
   "amenity/bank|Berliner Volksbank": {
-    "count": 68,
+    "count": 66,
     "tags": {
       "amenity": "bank",
       "brand": "Berliner Volksbank",
@@ -1693,7 +1693,7 @@
     }
   },
   "amenity/bank|Bradesco": {
-    "count": 1015,
+    "count": 1088,
     "match": ["amenity/bank|Banco Bradesco"],
     "tags": {
       "amenity": "bank",
@@ -1704,7 +1704,7 @@
     }
   },
   "amenity/bank|Budapest Bank": {
-    "count": 61,
+    "count": 62,
     "tags": {
       "amenity": "bank",
       "brand": "Budapest Bank",
@@ -1714,7 +1714,7 @@
     }
   },
   "amenity/bank|CBAO": {
-    "count": 57,
+    "count": 59,
     "tags": {
       "amenity": "bank",
       "brand": "CBAO",
@@ -1724,7 +1724,7 @@
     }
   },
   "amenity/bank|CEC Bank": {
-    "count": 141,
+    "count": 144,
     "tags": {
       "amenity": "bank",
       "brand": "CEC Bank",
@@ -1734,7 +1734,7 @@
     }
   },
   "amenity/bank|CIB Bank": {
-    "count": 68,
+    "count": 70,
     "tags": {
       "amenity": "bank",
       "brand": "CIB Bank",
@@ -1744,7 +1744,7 @@
     }
   },
   "amenity/bank|CIBC": {
-    "count": 558,
+    "count": 584,
     "countryCodes": ["ca"],
     "match": ["amenity/bank|CIBC Banking Centre"],
     "tags": {
@@ -1756,7 +1756,7 @@
     }
   },
   "amenity/bank|CIC": {
-    "count": 830,
+    "count": 856,
     "tags": {
       "amenity": "bank",
       "brand": "CIC",
@@ -1776,7 +1776,7 @@
     }
   },
   "amenity/bank|CIMB Bank": {
-    "count": 73,
+    "count": 76,
     "tags": {
       "amenity": "bank",
       "brand": "CIMB Bank",
@@ -1786,7 +1786,7 @@
     }
   },
   "amenity/bank|CIMB Niaga": {
-    "count": 71,
+    "count": 72,
     "tags": {
       "amenity": "bank",
       "brand": "CIMB Niaga",
@@ -1796,7 +1796,7 @@
     }
   },
   "amenity/bank|CNEP": {
-    "count": 51,
+    "count": 52,
     "tags": {
       "amenity": "bank",
       "brand": "CNEP",
@@ -1806,7 +1806,7 @@
     }
   },
   "amenity/bank|Caisse Desjardins": {
-    "count": 94,
+    "count": 134,
     "tags": {
       "amenity": "bank",
       "brand": "Caisse Desjardins",
@@ -1816,7 +1816,7 @@
     }
   },
   "amenity/bank|Caisse d'Épargne": {
-    "count": 1736,
+    "count": 1750,
     "tags": {
       "amenity": "bank",
       "brand": "Caisse d'Épargne",
@@ -1826,7 +1826,7 @@
     }
   },
   "amenity/bank|Caixa Econômica Federal": {
-    "count": 746,
+    "count": 803,
     "match": [
       "amenity/bank|Caixa",
       "amenity/bank|CaixaBank"
@@ -1840,7 +1840,7 @@
     }
   },
   "amenity/bank|Caixa Geral de Depósitos": {
-    "count": 413,
+    "count": 408,
     "tags": {
       "amenity": "bank",
       "brand": "Caixa Geral de Depósitos",
@@ -1850,7 +1850,7 @@
     }
   },
   "amenity/bank|Caixabank": {
-    "count": 140,
+    "count": 171,
     "tags": {
       "amenity": "bank",
       "brand:wikidata": "Q847225",
@@ -1867,7 +1867,7 @@
     }
   },
   "amenity/bank|Caja España": {
-    "count": 79,
+    "count": 80,
     "tags": {
       "amenity": "bank",
       "brand": "Caja España",
@@ -1877,7 +1877,7 @@
     }
   },
   "amenity/bank|Caja Rural": {
-    "count": 235,
+    "count": 247,
     "tags": {
       "amenity": "bank",
       "brand": "Caja Rural",
@@ -1897,7 +1897,7 @@
     }
   },
   "amenity/bank|CajaSur": {
-    "count": 76,
+    "count": 77,
     "tags": {
       "amenity": "bank",
       "brand": "CajaSur",
@@ -1907,7 +1907,7 @@
     }
   },
   "amenity/bank|Cajamar": {
-    "count": 240,
+    "count": 248,
     "tags": {
       "amenity": "bank",
       "brand": "Cajamar",
@@ -1917,7 +1917,7 @@
     }
   },
   "amenity/bank|Cajero Automatico Bancared": {
-    "count": 124,
+    "count": 125,
     "tags": {
       "amenity": "bank",
       "brand": "Cajero Automatico Bancared",
@@ -1925,7 +1925,7 @@
     }
   },
   "amenity/bank|Canara Bank": {
-    "count": 309,
+    "count": 319,
     "tags": {
       "amenity": "bank",
       "brand": "Canara Bank",
@@ -1935,7 +1935,7 @@
     }
   },
   "amenity/bank|Capital Bank": {
-    "count": 51,
+    "count": 52,
     "tags": {
       "amenity": "bank",
       "brand": "Capital Bank",
@@ -1943,7 +1943,7 @@
     }
   },
   "amenity/bank|Capital One": {
-    "count": 148,
+    "count": 158,
     "match": ["amenity/bank|Capital One Bank"],
     "tags": {
       "amenity": "bank",
@@ -1964,7 +1964,7 @@
     }
   },
   "amenity/bank|Cariparma": {
-    "count": 62,
+    "count": 63,
     "tags": {
       "amenity": "bank",
       "brand": "Cariparma",
@@ -1974,7 +1974,7 @@
     }
   },
   "amenity/bank|Carisbo": {
-    "count": 51,
+    "count": 52,
     "tags": {
       "amenity": "bank",
       "brand": "Carisbo",
@@ -1984,7 +1984,7 @@
     }
   },
   "amenity/bank|Cassa di Risparmio del Veneto": {
-    "count": 108,
+    "count": 106,
     "tags": {
       "amenity": "bank",
       "brand": "Cassa di Risparmio del Veneto",
@@ -1994,7 +1994,7 @@
     }
   },
   "amenity/bank|CatalunyaCaixa": {
-    "count": 108,
+    "count": 104,
     "tags": {
       "amenity": "bank",
       "brand": "CatalunyaCaixa",
@@ -2004,7 +2004,7 @@
     }
   },
   "amenity/bank|Central Bank": {
-    "count": 51,
+    "count": 54,
     "tags": {
       "amenity": "bank",
       "brand": "Central Bank",
@@ -2012,7 +2012,7 @@
     }
   },
   "amenity/bank|Central Bank of India": {
-    "count": 69,
+    "count": 72,
     "tags": {
       "amenity": "bank",
       "brand": "Central Bank of India",
@@ -2022,7 +2022,7 @@
     }
   },
   "amenity/bank|Chase": {
-    "count": 1829,
+    "count": 1923,
     "match": ["amenity/bank|Chase Bank"],
     "tags": {
       "amenity": "bank",
@@ -2033,7 +2033,7 @@
     }
   },
   "amenity/bank|China Bank": {
-    "count": 174,
+    "count": 176,
     "tags": {
       "amenity": "bank",
       "brand": "China Bank",
@@ -2053,7 +2053,7 @@
     }
   },
   "amenity/bank|China Construction Bank": {
-    "count": 71,
+    "count": 67,
     "tags": {
       "amenity": "bank",
       "brand": "China Construction Bank",
@@ -2063,7 +2063,7 @@
     }
   },
   "amenity/bank|Citibank": {
-    "count": 509,
+    "count": 508,
     "tags": {
       "amenity": "bank",
       "brand": "Citibank",
@@ -2073,7 +2073,7 @@
     }
   },
   "amenity/bank|Citizens Bank": {
-    "count": 301,
+    "count": 326,
     "tags": {
       "amenity": "bank",
       "brand": "Citizens Bank",
@@ -2094,7 +2094,7 @@
     }
   },
   "amenity/bank|Columbia Bank": {
-    "count": 96,
+    "count": 98,
     "nomatch": ["shop/clothes|Columbia"],
     "tags": {
       "amenity": "bank",
@@ -2103,7 +2103,7 @@
     }
   },
   "amenity/bank|Comerica Bank": {
-    "count": 86,
+    "count": 92,
     "tags": {
       "amenity": "bank",
       "brand": "Comerica Bank",
@@ -2113,7 +2113,7 @@
     }
   },
   "amenity/bank|Commerce Bank": {
-    "count": 90,
+    "count": 96,
     "tags": {
       "amenity": "bank",
       "brand": "Commerce Bank",
@@ -2121,7 +2121,7 @@
     }
   },
   "amenity/bank|Commercial Bank": {
-    "count": 83,
+    "count": 82,
     "tags": {
       "amenity": "bank",
       "brand": "Commercial Bank",
@@ -2139,7 +2139,7 @@
     }
   },
   "amenity/bank|Commerzbank": {
-    "count": 875,
+    "count": 874,
     "tags": {
       "amenity": "bank",
       "brand": "Commerzbank",
@@ -2149,7 +2149,7 @@
     }
   },
   "amenity/bank|Commonwealth Bank": {
-    "count": 410,
+    "count": 430,
     "tags": {
       "amenity": "bank",
       "brand": "Commonwealth Bank",
@@ -2159,7 +2159,7 @@
     }
   },
   "amenity/bank|Community Bank": {
-    "count": 65,
+    "count": 71,
     "tags": {
       "amenity": "bank",
       "brand": "Community Bank",
@@ -2167,7 +2167,7 @@
     }
   },
   "amenity/bank|Corporation Bank": {
-    "count": 101,
+    "count": 108,
     "tags": {
       "amenity": "bank",
       "brand": "Corporation Bank",
@@ -2177,7 +2177,7 @@
     }
   },
   "amenity/bank|Credem": {
-    "count": 94,
+    "count": 99,
     "tags": {
       "amenity": "bank",
       "brand": "Credem",
@@ -2187,7 +2187,7 @@
     }
   },
   "amenity/bank|Credicoop": {
-    "count": 125,
+    "count": 129,
     "tags": {
       "amenity": "bank",
       "brand": "Credicoop",
@@ -2197,7 +2197,7 @@
     }
   },
   "amenity/bank|Credit Suisse": {
-    "count": 100,
+    "count": 101,
     "tags": {
       "amenity": "bank",
       "brand": "Credit Suisse",
@@ -2207,7 +2207,7 @@
     }
   },
   "amenity/bank|Credit Union": {
-    "count": 51,
+    "count": 55,
     "tags": {
       "amenity": "bank",
       "brand": "Credit Union",
@@ -2215,7 +2215,7 @@
     }
   },
   "amenity/bank|Credito Valtellinese": {
-    "count": 53,
+    "count": 57,
     "tags": {
       "amenity": "bank",
       "brand": "Credito Valtellinese",
@@ -2225,7 +2225,7 @@
     }
   },
   "amenity/bank|Crelan": {
-    "count": 67,
+    "count": 80,
     "tags": {
       "amenity": "bank",
       "brand": "Crelan",
@@ -2235,7 +2235,7 @@
     }
   },
   "amenity/bank|Crédit Agricole": {
-    "count": 2776,
+    "count": 3090,
     "match": ["amenity/bank|Credit Agricole"],
     "tags": {
       "amenity": "bank",
@@ -2246,7 +2246,7 @@
     }
   },
   "amenity/bank|Crédit Maritime": {
-    "count": 54,
+    "count": 55,
     "countryCodes": ["fr"],
     "tags": {
       "amenity": "bank",
@@ -2257,7 +2257,7 @@
     }
   },
   "amenity/bank|Crédit Mutuel": {
-    "count": 1207,
+    "count": 1259,
     "tags": {
       "amenity": "bank",
       "brand": "Crédit Mutuel",
@@ -2267,7 +2267,7 @@
     }
   },
   "amenity/bank|Crédit Mutuel de Bretagne": {
-    "count": 365,
+    "count": 360,
     "tags": {
       "amenity": "bank",
       "brand": "Crédit Mutuel de Bretagne",
@@ -2277,7 +2277,7 @@
     }
   },
   "amenity/bank|Crédit du Nord": {
-    "count": 165,
+    "count": 169,
     "tags": {
       "amenity": "bank",
       "brand": "Crédit du Nord",
@@ -2287,7 +2287,7 @@
     }
   },
   "amenity/bank|Crédito Agrícola": {
-    "count": 230,
+    "count": 235,
     "tags": {
       "amenity": "bank",
       "brand": "Crédito Agrícola",
@@ -2297,7 +2297,7 @@
     }
   },
   "amenity/bank|Cбербанк": {
-    "count": 75,
+    "count": 74,
     "tags": {
       "amenity": "bank",
       "brand": "Cбербанк",
@@ -2307,7 +2307,7 @@
     }
   },
   "amenity/bank|Danske Bank": {
-    "count": 169,
+    "count": 168,
     "tags": {
       "amenity": "bank",
       "brand": "Danske Bank",
@@ -2317,7 +2317,7 @@
     }
   },
   "amenity/bank|Davivienda": {
-    "count": 213,
+    "count": 223,
     "tags": {
       "amenity": "bank",
       "brand": "Davivienda",
@@ -2327,7 +2327,7 @@
     }
   },
   "amenity/bank|Denizbank": {
-    "count": 75,
+    "count": 79,
     "tags": {
       "amenity": "bank",
       "brand": "Denizbank",
@@ -2337,7 +2337,7 @@
     }
   },
   "amenity/bank|Desjardins": {
-    "count": 89,
+    "count": 92,
     "tags": {
       "amenity": "bank",
       "brand": "Desjardins",
@@ -2347,7 +2347,7 @@
     }
   },
   "amenity/bank|Deutsche Bank": {
-    "count": 1015,
+    "count": 1019,
     "tags": {
       "amenity": "bank",
       "brand": "Deutsche Bank",
@@ -2367,7 +2367,7 @@
     }
   },
   "amenity/bank|EastWest Bank": {
-    "count": 73,
+    "count": 85,
     "match": ["amenity/bank|East West Bank"],
     "tags": {
       "amenity": "bank",
@@ -2378,7 +2378,7 @@
     }
   },
   "amenity/bank|EastWest Unibank": {
-    "count": 52,
+    "count": 54,
     "tags": {
       "amenity": "bank",
       "brand": "EastWest Unibank",
@@ -2388,7 +2388,7 @@
     }
   },
   "amenity/bank|Ecobank": {
-    "count": 250,
+    "count": 265,
     "match": ["amenity/bank|Agence Ecobank"],
     "tags": {
       "amenity": "bank",
@@ -2399,7 +2399,7 @@
     }
   },
   "amenity/bank|Equity Bank": {
-    "count": 63,
+    "count": 69,
     "tags": {
       "amenity": "bank",
       "brand": "Equity Bank",
@@ -2407,7 +2407,7 @@
     }
   },
   "amenity/bank|Erste Bank": {
-    "count": 208,
+    "count": 211,
     "countryCodes": ["at", "hr", "hu"],
     "tags": {
       "amenity": "bank",
@@ -2418,7 +2418,7 @@
     }
   },
   "amenity/bank|Eurobank": {
-    "count": 312,
+    "count": 342,
     "tags": {
       "amenity": "bank",
       "brand": "Eurobank",
@@ -2426,7 +2426,7 @@
     }
   },
   "amenity/bank|FNB": {
-    "count": 155,
+    "count": 164,
     "tags": {
       "amenity": "bank",
       "brand": "FNB",
@@ -2446,7 +2446,7 @@
     }
   },
   "amenity/bank|Federal Bank": {
-    "count": 99,
+    "count": 105,
     "tags": {
       "amenity": "bank",
       "brand": "Federal Bank",
@@ -2456,7 +2456,7 @@
     }
   },
   "amenity/bank|Fidelity Bank": {
-    "count": 64,
+    "count": 78,
     "tags": {
       "amenity": "bank",
       "brand": "Fidelity Bank",
@@ -2464,7 +2464,7 @@
     }
   },
   "amenity/bank|Fifth Third Bank": {
-    "count": 310,
+    "count": 327,
     "tags": {
       "amenity": "bank",
       "brand": "Fifth Third Bank",
@@ -2474,7 +2474,7 @@
     }
   },
   "amenity/bank|Finansbank": {
-    "count": 76,
+    "count": 78,
     "tags": {
       "amenity": "bank",
       "brand": "Finansbank",
@@ -2484,7 +2484,7 @@
     }
   },
   "amenity/bank|First Bank": {
-    "count": 107,
+    "count": 121,
     "tags": {
       "amenity": "bank",
       "brand": "First Bank",
@@ -2492,7 +2492,7 @@
     }
   },
   "amenity/bank|First Citizens Bank": {
-    "count": 130,
+    "count": 141,
     "tags": {
       "amenity": "bank",
       "brand": "First Citizens Bank",
@@ -2502,7 +2502,7 @@
     }
   },
   "amenity/bank|First National Bank": {
-    "count": 271,
+    "count": 296,
     "tags": {
       "amenity": "bank",
       "brand": "First National Bank",
@@ -2522,7 +2522,7 @@
     }
   },
   "amenity/bank|GCB Bank": {
-    "count": 58,
+    "count": 65,
     "tags": {
       "amenity": "bank",
       "brand": "GCB Bank",
@@ -2532,7 +2532,7 @@
     }
   },
   "amenity/bank|Galicia": {
-    "count": 204,
+    "count": 208,
     "tags": {
       "amenity": "bank",
       "brand": "Galicia",
@@ -2542,7 +2542,7 @@
     }
   },
   "amenity/bank|Garanti": {
-    "count": 79,
+    "count": 87,
     "tags": {
       "amenity": "bank",
       "brand": "Garanti",
@@ -2552,7 +2552,7 @@
     }
   },
   "amenity/bank|Garanti Bankası": {
-    "count": 124,
+    "count": 140,
     "tags": {
       "amenity": "bank",
       "brand": "Garanti Bankası",
@@ -2562,7 +2562,7 @@
     }
   },
   "amenity/bank|Getin Bank": {
-    "count": 124,
+    "count": 128,
     "tags": {
       "amenity": "bank",
       "brand": "Getin Bank",
@@ -2572,7 +2572,7 @@
     }
   },
   "amenity/bank|Great Western Bank": {
-    "count": 53,
+    "count": 54,
     "tags": {
       "amenity": "bank",
       "brand": "Great Western Bank",
@@ -2582,7 +2582,7 @@
     }
   },
   "amenity/bank|Groupama": {
-    "count": 82,
+    "count": 90,
     "tags": {
       "amenity": "bank",
       "brand": "Groupama",
@@ -2592,7 +2592,7 @@
     }
   },
   "amenity/bank|HBL Bank": {
-    "count": 123,
+    "count": 125,
     "match": ["amenity/bank|HBL"],
     "tags": {
       "amenity": "bank",
@@ -2603,7 +2603,7 @@
     }
   },
   "amenity/bank|HDFC Bank": {
-    "count": 256,
+    "count": 272,
     "tags": {
       "amenity": "bank",
       "brand": "HDFC Bank",
@@ -2613,7 +2613,7 @@
     }
   },
   "amenity/bank|HNB": {
-    "count": 67,
+    "count": 68,
     "tags": {
       "amenity": "bank",
       "brand": "HNB",
@@ -2623,7 +2623,7 @@
     }
   },
   "amenity/bank|HSBC": {
-    "count": 1770,
+    "count": 1782,
     "tags": {
       "amenity": "bank",
       "brand": "HSBC",
@@ -2633,7 +2633,7 @@
     }
   },
   "amenity/bank|Halifax": {
-    "count": 398,
+    "count": 405,
     "tags": {
       "amenity": "bank",
       "brand": "Halifax",
@@ -2643,7 +2643,7 @@
     }
   },
   "amenity/bank|Halkbank": {
-    "count": 117,
+    "count": 132,
     "tags": {
       "amenity": "bank",
       "brand": "Halkbank",
@@ -2653,7 +2653,7 @@
     }
   },
   "amenity/bank|Handelsbanken": {
-    "count": 265,
+    "count": 269,
     "tags": {
       "amenity": "bank",
       "brand": "Handelsbanken",
@@ -2663,7 +2663,7 @@
     }
   },
   "amenity/bank|Heritage Bank": {
-    "count": 57,
+    "count": 60,
     "tags": {
       "amenity": "bank",
       "brand": "Heritage Bank",
@@ -2673,7 +2673,7 @@
     }
   },
   "amenity/bank|Hong Leong Bank": {
-    "count": 60,
+    "count": 73,
     "tags": {
       "amenity": "bank",
       "brand": "Hong Leong Bank",
@@ -2683,7 +2683,7 @@
     }
   },
   "amenity/bank|Hrvatska poštanska banka": {
-    "count": 54,
+    "count": 55,
     "tags": {
       "amenity": "bank",
       "brand": "Hrvatska poštanska banka",
@@ -2693,7 +2693,7 @@
     }
   },
   "amenity/bank|Huntington Bank": {
-    "count": 164,
+    "count": 186,
     "tags": {
       "amenity": "bank",
       "brand": "Huntington Bank",
@@ -2703,7 +2703,7 @@
     }
   },
   "amenity/bank|HypoVereinsbank": {
-    "count": 391,
+    "count": 386,
     "tags": {
       "amenity": "bank",
       "brand": "HypoVereinsbank",
@@ -2713,7 +2713,7 @@
     }
   },
   "amenity/bank|ICBC": {
-    "count": 171,
+    "count": 175,
     "tags": {
       "amenity": "bank",
       "brand": "ICBC",
@@ -2723,7 +2723,7 @@
     }
   },
   "amenity/bank|ICICI Bank": {
-    "count": 252,
+    "count": 263,
     "tags": {
       "amenity": "bank",
       "brand": "ICICI Bank",
@@ -2733,7 +2733,7 @@
     }
   },
   "amenity/bank|IDBI Bank": {
-    "count": 75,
+    "count": 79,
     "tags": {
       "amenity": "bank",
       "brand": "IDBI Bank",
@@ -2743,7 +2743,7 @@
     }
   },
   "amenity/bank|ING": {
-    "count": 583,
+    "count": 602,
     "match": ["amenity/bank|ING Bank"],
     "tags": {
       "amenity": "bank",
@@ -2764,7 +2764,7 @@
     }
   },
   "amenity/bank|Ibercaja": {
-    "count": 102,
+    "count": 113,
     "match": ["amenity/bank|IberCaja"],
     "tags": {
       "amenity": "bank",
@@ -2775,7 +2775,7 @@
     }
   },
   "amenity/bank|Indian Bank": {
-    "count": 119,
+    "count": 128,
     "tags": {
       "amenity": "bank",
       "brand": "Indian Bank",
@@ -2785,7 +2785,7 @@
     }
   },
   "amenity/bank|Indian Overseas Bank": {
-    "count": 118,
+    "count": 125,
     "tags": {
       "amenity": "bank",
       "brand": "Indian Overseas Bank",
@@ -2795,7 +2795,7 @@
     }
   },
   "amenity/bank|Interbank": {
-    "count": 156,
+    "count": 155,
     "nomatch": ["amenity/bank|Bankinter"],
     "tags": {
       "amenity": "bank",
@@ -2806,7 +2806,7 @@
     }
   },
   "amenity/bank|Intesa Sanpaolo": {
-    "count": 128,
+    "count": 164,
     "match": [
       "amenity/bank|Intesa San Paolo",
       "amenity/bank|Intesa SanPaolo"
@@ -2820,7 +2820,7 @@
     }
   },
   "amenity/bank|Itaú": {
-    "count": 826,
+    "count": 887,
     "match": [
       "amenity/bank|Banco Itaú",
       "amenity/bank|Itau"
@@ -2864,7 +2864,7 @@
     }
   },
   "amenity/bank|K&H Bank": {
-    "count": 83,
+    "count": 84,
     "tags": {
       "amenity": "bank",
       "brand": "K&H Bank",
@@ -2874,7 +2874,7 @@
     }
   },
   "amenity/bank|KBC": {
-    "count": 290,
+    "count": 296,
     "tags": {
       "amenity": "bank",
       "brand": "KBC",
@@ -2884,7 +2884,7 @@
     }
   },
   "amenity/bank|KBZ Bank": {
-    "count": 60,
+    "count": 62,
     "tags": {
       "amenity": "bank",
       "brand": "KBZ Bank",
@@ -2894,7 +2894,7 @@
     }
   },
   "amenity/bank|Karnataka Bank": {
-    "count": 56,
+    "count": 58,
     "tags": {
       "amenity": "bank",
       "brand": "Karnataka Bank",
@@ -2904,7 +2904,7 @@
     }
   },
   "amenity/bank|Kasa Stefczyka": {
-    "count": 84,
+    "count": 102,
     "countryCodes": ["pl"],
     "tags": {
       "amenity": "bank",
@@ -2914,7 +2914,7 @@
     }
   },
   "amenity/bank|Key Bank": {
-    "count": 272,
+    "count": 291,
     "match": ["amenity/bank|KeyBank"],
     "tags": {
       "amenity": "bank",
@@ -2925,7 +2925,7 @@
     }
   },
   "amenity/bank|Komerční banka": {
-    "count": 189,
+    "count": 192,
     "tags": {
       "amenity": "bank",
       "brand": "Komerční banka",
@@ -2935,7 +2935,7 @@
     }
   },
   "amenity/bank|Kotak Mahindra Bank": {
-    "nocount": true,
+    "count": 54,
     "tags": {
       "amenity": "bank",
       "brand:wikidata": "Q2040404",
@@ -2944,7 +2944,7 @@
     }
   },
   "amenity/bank|Kreissparkasse": {
-    "count": 594,
+    "count": 592,
     "match": ["amenity/bank|Kreissparkasse Köln"],
     "tags": {
       "amenity": "bank",
@@ -2955,7 +2955,7 @@
     }
   },
   "amenity/bank|Kutxabank": {
-    "count": 186,
+    "count": 193,
     "tags": {
       "amenity": "bank",
       "brand": "Kutxabank",
@@ -2965,7 +2965,7 @@
     }
   },
   "amenity/bank|LCL": {
-    "count": 963,
+    "count": 978,
     "tags": {
       "amenity": "bank",
       "brand": "LCL",
@@ -2975,7 +2975,7 @@
     }
   },
   "amenity/bank|La Banque Postale": {
-    "count": 136,
+    "count": 142,
     "tags": {
       "amenity": "bank",
       "brand": "La Banque Postale",
@@ -2985,7 +2985,7 @@
     }
   },
   "amenity/bank|La Caixa": {
-    "count": 1084,
+    "count": 1075,
     "tags": {
       "amenity": "bank",
       "brand": "La Caixa",
@@ -2995,7 +2995,7 @@
     }
   },
   "amenity/bank|Laboral Kutxa": {
-    "count": 74,
+    "count": 77,
     "tags": {
       "amenity": "bank",
       "brand": "Laboral Kutxa",
@@ -3005,7 +3005,7 @@
     }
   },
   "amenity/bank|Landbank": {
-    "count": 132,
+    "count": 141,
     "countryCodes": ["ph"],
     "match": [
       "amenity/bank|Bangko sa Lupa ng Pilipinas",
@@ -3021,7 +3021,7 @@
     }
   },
   "amenity/bank|Liberbank": {
-    "count": 241,
+    "count": 249,
     "tags": {
       "amenity": "bank",
       "brand": "Liberbank",
@@ -3031,7 +3031,7 @@
     }
   },
   "amenity/bank|Liberty Bank": {
-    "count": 53,
+    "count": 58,
     "nomatch": ["amenity/fuel|Liberty"],
     "tags": {
       "amenity": "bank",
@@ -3040,7 +3040,7 @@
     }
   },
   "amenity/bank|Lloyds Bank": {
-    "count": 445,
+    "count": 455,
     "match": [
       "amenity/bank|Lloyds",
       "amenity/bank|Lloyds TSB"
@@ -3054,7 +3054,7 @@
     }
   },
   "amenity/bank|M&T Bank": {
-    "count": 223,
+    "count": 248,
     "tags": {
       "amenity": "bank",
       "brand": "M&T Bank",
@@ -3064,7 +3064,7 @@
     }
   },
   "amenity/bank|MCB": {
-    "count": 127,
+    "count": 128,
     "match": ["amenity/bank|MCB Bank"],
     "tags": {
       "amenity": "bank",
@@ -3075,7 +3075,7 @@
     }
   },
   "amenity/bank|MONETA Money Bank": {
-    "count": 94,
+    "count": 84,
     "tags": {
       "amenity": "bank",
       "brand": "MONETA Money Bank",
@@ -3085,7 +3085,7 @@
     }
   },
   "amenity/bank|Macro": {
-    "count": 222,
+    "count": 219,
     "tags": {
       "amenity": "bank",
       "brand": "Macro",
@@ -3095,7 +3095,7 @@
     }
   },
   "amenity/bank|Maybank": {
-    "count": 282,
+    "count": 290,
     "tags": {
       "amenity": "bank",
       "brand": "Maybank",
@@ -3105,7 +3105,7 @@
     }
   },
   "amenity/bank|Meezan Bank": {
-    "count": 115,
+    "count": 117,
     "tags": {
       "amenity": "bank",
       "brand": "Meezan Bank",
@@ -3125,7 +3125,7 @@
     }
   },
   "amenity/bank|Metrobank": {
-    "count": 398,
+    "count": 409,
     "match": [
       "amenity/bank|Metro Bank",
       "amenity/bank|MetroBank"
@@ -3137,7 +3137,7 @@
     }
   },
   "amenity/bank|Mibanco": {
-    "count": 59,
+    "count": 60,
     "countryCodes": ["pe"],
     "match": ["amenity/bank|MiBanco"],
     "tags": {
@@ -3149,7 +3149,7 @@
     }
   },
   "amenity/bank|Millennium Bank": {
-    "count": 366,
+    "count": 363,
     "countryCodes": ["pl"],
     "tags": {
       "amenity": "bank",
@@ -3160,7 +3160,7 @@
     }
   },
   "amenity/bank|Millennium bcp": {
-    "count": 308,
+    "count": 301,
     "countryCodes": ["pt"],
     "tags": {
       "amenity": "bank",
@@ -3171,7 +3171,7 @@
     }
   },
   "amenity/bank|Monte dei Paschi di Siena": {
-    "count": 292,
+    "count": 305,
     "tags": {
       "amenity": "bank",
       "brand": "Monte dei Paschi di Siena",
@@ -3181,7 +3181,7 @@
     }
   },
   "amenity/bank|Montepio": {
-    "count": 146,
+    "count": 152,
     "tags": {
       "amenity": "bank",
       "brand": "Montepio",
@@ -3191,7 +3191,7 @@
     }
   },
   "amenity/bank|NAB": {
-    "count": 229,
+    "count": 239,
     "tags": {
       "amenity": "bank",
       "brand": "NAB",
@@ -3201,7 +3201,7 @@
     }
   },
   "amenity/bank|NSB": {
-    "count": 54,
+    "count": 55,
     "tags": {
       "amenity": "bank",
       "brand": "NSB",
@@ -3209,7 +3209,7 @@
     }
   },
   "amenity/bank|NatWest": {
-    "count": 531,
+    "count": 516,
     "match": [
       "amenity/bank|Nat West",
       "amenity/bank|Natwest"
@@ -3223,7 +3223,7 @@
     }
   },
   "amenity/bank|National Bank": {
-    "count": 185,
+    "count": 193,
     "tags": {
       "amenity": "bank",
       "brand": "National Bank",
@@ -3231,7 +3231,7 @@
     }
   },
   "amenity/bank|Nationwide": {
-    "count": 377,
+    "count": 392,
     "tags": {
       "amenity": "bank",
       "brand": "Nationwide",
@@ -3241,7 +3241,7 @@
     }
   },
   "amenity/bank|Navy Federal Credit Union": {
-    "count": 65,
+    "count": 69,
     "tags": {
       "amenity": "bank",
       "brand": "Navy Federal Credit Union",
@@ -3251,7 +3251,7 @@
     }
   },
   "amenity/bank|Nedbank": {
-    "count": 115,
+    "count": 125,
     "tags": {
       "amenity": "bank",
       "brand": "Nedbank",
@@ -3261,7 +3261,7 @@
     }
   },
   "amenity/bank|Nordea": {
-    "count": 312,
+    "count": 316,
     "tags": {
       "amenity": "bank",
       "brand": "Nordea",
@@ -3271,7 +3271,7 @@
     }
   },
   "amenity/bank|Novo Banco": {
-    "count": 140,
+    "count": 146,
     "tags": {
       "amenity": "bank",
       "brand": "Novo Banco",
@@ -3291,7 +3291,7 @@
     }
   },
   "amenity/bank|OTP": {
-    "count": 84,
+    "count": 88,
     "match": ["amenity/bank|OTP Bank"],
     "tags": {
       "amenity": "bank",
@@ -3302,7 +3302,7 @@
     }
   },
   "amenity/bank|Oberbank": {
-    "count": 113,
+    "count": 115,
     "tags": {
       "amenity": "bank",
       "brand": "Oberbank",
@@ -3322,7 +3322,7 @@
     }
   },
   "amenity/bank|Oldenburgische Landesbank": {
-    "count": 66,
+    "count": 67,
     "tags": {
       "amenity": "bank",
       "brand": "Oldenburgische Landesbank",
@@ -3332,7 +3332,7 @@
     }
   },
   "amenity/bank|One Network Bank": {
-    "count": 92,
+    "count": 89,
     "tags": {
       "amenity": "bank",
       "brand": "One Network Bank",
@@ -3342,7 +3342,7 @@
     }
   },
   "amenity/bank|Oriental Bank of Commerce": {
-    "count": 55,
+    "count": 57,
     "tags": {
       "amenity": "bank",
       "brand": "Oriental Bank of Commerce",
@@ -3360,7 +3360,7 @@
     }
   },
   "amenity/bank|PBZ": {
-    "count": 66,
+    "count": 69,
     "tags": {
       "amenity": "bank",
       "brand": "PBZ",
@@ -3370,7 +3370,7 @@
     }
   },
   "amenity/bank|PKO BP": {
-    "count": 519,
+    "count": 541,
     "match": ["amenity/bank|PKO Bank Polski"],
     "tags": {
       "amenity": "bank",
@@ -3381,7 +3381,7 @@
     }
   },
   "amenity/bank|PNB": {
-    "count": 339,
+    "count": 348,
     "tags": {
       "amenity": "bank",
       "brand": "PNB",
@@ -3389,7 +3389,7 @@
     }
   },
   "amenity/bank|PNC Bank": {
-    "count": 758,
+    "count": 802,
     "match": ["amenity/bank|PNC"],
     "tags": {
       "amenity": "bank",
@@ -3400,7 +3400,7 @@
     }
   },
   "amenity/bank|PSBank": {
-    "count": 114,
+    "count": 117,
     "tags": {
       "amenity": "bank",
       "brand": "PSBank",
@@ -3420,7 +3420,7 @@
     }
   },
   "amenity/bank|Patagonia": {
-    "count": 118,
+    "count": 117,
     "tags": {
       "amenity": "bank",
       "brand": "Patagonia",
@@ -3430,7 +3430,7 @@
     }
   },
   "amenity/bank|Pekao SA": {
-    "count": 187,
+    "count": 192,
     "tags": {
       "amenity": "bank",
       "brand": "Pekao SA",
@@ -3440,7 +3440,7 @@
     }
   },
   "amenity/bank|People's United Bank": {
-    "count": 52,
+    "count": 62,
     "tags": {
       "amenity": "bank",
       "brand": "People's United Bank",
@@ -3450,7 +3450,7 @@
     }
   },
   "amenity/bank|Peoples Bank": {
-    "count": 184,
+    "count": 191,
     "match": ["amenity/bank|People's Bank"],
     "tags": {
       "amenity": "bank",
@@ -3461,7 +3461,7 @@
     }
   },
   "amenity/bank|Philippine National Bank": {
-    "count": 75,
+    "count": 78,
     "tags": {
       "amenity": "bank",
       "brand": "Philippine National Bank",
@@ -3471,7 +3471,7 @@
     }
   },
   "amenity/bank|Piraeus Bank": {
-    "count": 105,
+    "count": 110,
     "tags": {
       "amenity": "bank",
       "brand": "Piraeus Bank",
@@ -3496,7 +3496,7 @@
     }
   },
   "amenity/bank|Prima banka": {
-    "count": 54,
+    "count": 60,
     "countryCodes": ["sk"],
     "tags": {
       "amenity": "bank",
@@ -3515,7 +3515,7 @@
     }
   },
   "amenity/bank|Public Bank": {
-    "count": 102,
+    "count": 106,
     "tags": {
       "amenity": "bank",
       "brand": "Public Bank",
@@ -3523,7 +3523,7 @@
     }
   },
   "amenity/bank|Punjab National Bank": {
-    "count": 152,
+    "count": 161,
     "tags": {
       "amenity": "bank",
       "brand": "Punjab National Bank",
@@ -3533,7 +3533,7 @@
     }
   },
   "amenity/bank|RBC": {
-    "count": 379,
+    "count": 394,
     "match": [
       "amenity/bank|RBC Financial Group",
       "amenity/bank|RBC Royal Bank",
@@ -3549,7 +3549,7 @@
     }
   },
   "amenity/bank|RBS": {
-    "count": 189,
+    "count": 184,
     "match": [
       "amenity/bank|Royal Bank of Scotland"
     ],
@@ -3562,7 +3562,7 @@
     }
   },
   "amenity/bank|RCBC": {
-    "count": 162,
+    "count": 170,
     "match": ["amenity/bank|RCBC Savings Bank"],
     "tags": {
       "amenity": "bank",
@@ -3573,7 +3573,7 @@
     }
   },
   "amenity/bank|Rabobank": {
-    "count": 537,
+    "count": 530,
     "tags": {
       "amenity": "bank",
       "brand": "Rabobank",
@@ -3583,7 +3583,7 @@
     }
   },
   "amenity/bank|Raiffeisen Polbank": {
-    "count": 82,
+    "count": 88,
     "tags": {
       "amenity": "bank",
       "brand": "Raiffeisen Polbank",
@@ -3593,7 +3593,7 @@
     }
   },
   "amenity/bank|Raiffeisenbank": {
-    "count": 1794,
+    "count": 1783,
     "match": [
       "amenity/bank|Raiffeisen",
       "amenity/bank|Raiffeisen Bank",
@@ -3608,7 +3608,7 @@
     }
   },
   "amenity/bank|Regions Bank": {
-    "count": 267,
+    "count": 284,
     "countryCodes": ["us"],
     "tags": {
       "amenity": "bank",
@@ -3619,7 +3619,7 @@
     }
   },
   "amenity/bank|Republic Bank": {
-    "count": 112,
+    "count": 115,
     "tags": {
       "amenity": "bank",
       "brand": "Republic Bank",
@@ -3649,7 +3649,7 @@
     }
   },
   "amenity/bank|SNS Bank": {
-    "count": 64,
+    "count": 65,
     "tags": {
       "amenity": "bank",
       "brand": "SNS Bank",
@@ -3659,7 +3659,7 @@
     }
   },
   "amenity/bank|Sampath Bank": {
-    "count": 98,
+    "count": 97,
     "tags": {
       "amenity": "bank",
       "brand": "Sampath Bank",
@@ -3669,7 +3669,7 @@
     }
   },
   "amenity/bank|Santander": {
-    "count": 3544,
+    "count": 3997,
     "match": [
       "amenity/bank|Santander Consumer Bank"
     ],
@@ -3693,7 +3693,7 @@
     }
   },
   "amenity/bank|Santander Totta": {
-    "count": 329,
+    "count": 325,
     "tags": {
       "amenity": "bank",
       "brand": "Santander Totta",
@@ -3703,7 +3703,7 @@
     }
   },
   "amenity/bank|Sberbank": {
-    "count": 129,
+    "count": 125,
     "tags": {
       "amenity": "bank",
       "brand": "Sberbank",
@@ -3713,7 +3713,7 @@
     }
   },
   "amenity/bank|Scotiabank": {
-    "count": 1235,
+    "count": 1260,
     "tags": {
       "amenity": "bank",
       "brand": "Scotiabank",
@@ -3723,7 +3723,7 @@
     }
   },
   "amenity/bank|Security Bank": {
-    "count": 190,
+    "count": 197,
     "tags": {
       "amenity": "bank",
       "brand": "Security Bank",
@@ -3743,7 +3743,7 @@
     }
   },
   "amenity/bank|Siam Commercial Bank": {
-    "nocount": true,
+    "count": 53,
     "tags": {
       "amenity": "bank",
       "brand": "Siam Commercial Bank",
@@ -3753,7 +3753,7 @@
     }
   },
   "amenity/bank|Sicoob": {
-    "count": 82,
+    "count": 96,
     "tags": {
       "amenity": "bank",
       "brand": "Sicoob",
@@ -3763,7 +3763,7 @@
     }
   },
   "amenity/bank|Sicredi": {
-    "count": 142,
+    "count": 160,
     "tags": {
       "amenity": "bank",
       "brand": "Sicredi",
@@ -3783,7 +3783,7 @@
     }
   },
   "amenity/bank|Société Générale": {
-    "count": 1218,
+    "count": 1239,
     "match": ["amenity/bank|Societe Generale"],
     "tags": {
       "amenity": "bank",
@@ -3807,17 +3807,17 @@
     }
   },
   "amenity/bank|South Indian Bank": {
-    "nocount": true,
+    "count": 58,
     "tags": {
       "amenity": "bank",
       "brand": "South Indian Bank",
-      "brand:wikipedia": "en:South Indian Bank",
       "brand:wikidata": "Q2044973",
+      "brand:wikipedia": "en:South Indian Bank",
       "name": "South Indian Bank"
     }
   },
   "amenity/bank|Sparda-Bank": {
-    "count": 268,
+    "count": 270,
     "tags": {
       "amenity": "bank",
       "brand": "Sparda-Bank",
@@ -3827,7 +3827,7 @@
     }
   },
   "amenity/bank|Sparkasse": {
-    "count": 4568,
+    "count": 4497,
     "match": [
       "amenity/bank|Hamburger Sparkasse",
       "amenity/bank|Mittelbrandenburgische Sparkasse",
@@ -3844,7 +3844,7 @@
     }
   },
   "amenity/bank|Stanbic Bank": {
-    "count": 77,
+    "count": 79,
     "tags": {
       "amenity": "bank",
       "brand": "Stanbic Bank",
@@ -3854,7 +3854,7 @@
     }
   },
   "amenity/bank|Standard Bank": {
-    "count": 181,
+    "count": 204,
     "tags": {
       "amenity": "bank",
       "brand": "Standard Bank",
@@ -3864,7 +3864,7 @@
     }
   },
   "amenity/bank|Standard Chartered": {
-    "count": 102,
+    "count": 112,
     "match": [
       "amenity/bank|Standard Chartered Bank"
     ],
@@ -3877,7 +3877,7 @@
     }
   },
   "amenity/bank|State Bank of India": {
-    "count": 1133,
+    "count": 1181,
     "tags": {
       "amenity": "bank",
       "brand": "State Bank of India",
@@ -3887,7 +3887,7 @@
     }
   },
   "amenity/bank|Summit Bank": {
-    "count": 63,
+    "count": 65,
     "tags": {
       "amenity": "bank",
       "brand": "Summit Bank",
@@ -3897,7 +3897,7 @@
     }
   },
   "amenity/bank|SunTrust": {
-    "count": 216,
+    "count": 240,
     "match": ["amenity/bank|SunTrust Bank"],
     "tags": {
       "amenity": "bank",
@@ -3908,7 +3908,7 @@
     }
   },
   "amenity/bank|Supervielle": {
-    "count": 88,
+    "count": 91,
     "tags": {
       "amenity": "bank",
       "brand": "Supervielle",
@@ -3918,7 +3918,7 @@
     }
   },
   "amenity/bank|Swedbank": {
-    "count": 253,
+    "count": 254,
     "tags": {
       "amenity": "bank",
       "brand": "Swedbank",
@@ -3928,7 +3928,7 @@
     }
   },
   "amenity/bank|Syndicate Bank": {
-    "count": 143,
+    "count": 147,
     "tags": {
       "amenity": "bank",
       "brand": "Syndicate Bank",
@@ -3938,7 +3938,7 @@
     }
   },
   "amenity/bank|TCF Bank": {
-    "count": 99,
+    "count": 104,
     "tags": {
       "amenity": "bank",
       "brand": "TCF Bank",
@@ -3948,7 +3948,7 @@
     }
   },
   "amenity/bank|TD Bank": {
-    "count": 524,
+    "count": 554,
     "tags": {
       "amenity": "bank",
       "brand": "TD Bank",
@@ -3958,7 +3958,7 @@
     }
   },
   "amenity/bank|TD Canada Trust": {
-    "count": 721,
+    "count": 738,
     "tags": {
       "amenity": "bank",
       "brand": "TD Canada Trust",
@@ -3968,7 +3968,7 @@
     }
   },
   "amenity/bank|TEB": {
-    "count": 78,
+    "count": 81,
     "tags": {
       "amenity": "bank",
       "brand": "TEB",
@@ -3978,7 +3978,7 @@
     }
   },
   "amenity/bank|TSB": {
-    "count": 302,
+    "count": 319,
     "tags": {
       "amenity": "bank",
       "brand": "TSB",
@@ -3988,7 +3988,7 @@
     }
   },
   "amenity/bank|Takarékszövetkezet": {
-    "count": 125,
+    "count": 127,
     "tags": {
       "amenity": "bank",
       "brand": "Takarékszövetkezet",
@@ -3996,7 +3996,7 @@
     }
   },
   "amenity/bank|Targobank": {
-    "count": 226,
+    "count": 223,
     "match": ["amenity/bank|Targo Bank"],
     "tags": {
       "amenity": "bank",
@@ -4007,7 +4007,7 @@
     }
   },
   "amenity/bank|Tatra banka": {
-    "count": 75,
+    "count": 74,
     "tags": {
       "amenity": "bank",
       "brand": "Tatra banka",
@@ -4017,7 +4017,7 @@
     }
   },
   "amenity/bank|Türkiye İş Bankası": {
-    "count": 77,
+    "count": 87,
     "tags": {
       "amenity": "bank",
       "brand": "Türkiye İş Bankası",
@@ -4027,7 +4027,7 @@
     }
   },
   "amenity/bank|UBA": {
-    "count": 66,
+    "count": 73,
     "tags": {
       "amenity": "bank",
       "brand": "UBA",
@@ -4037,7 +4037,7 @@
     }
   },
   "amenity/bank|UBI Banca": {
-    "count": 106,
+    "count": 122,
     "tags": {
       "amenity": "bank",
       "brand": "UBI Banca",
@@ -4060,7 +4060,7 @@
     }
   },
   "amenity/bank|UBS": {
-    "count": 181,
+    "count": 179,
     "tags": {
       "amenity": "bank",
       "brand": "UBS",
@@ -4070,7 +4070,7 @@
     }
   },
   "amenity/bank|UCO Bank": {
-    "count": 56,
+    "count": 60,
     "tags": {
       "amenity": "bank",
       "brand": "UCO Bank",
@@ -4080,7 +4080,7 @@
     }
   },
   "amenity/bank|UCPB": {
-    "count": 126,
+    "count": 131,
     "tags": {
       "amenity": "bank",
       "brand": "UCPB",
@@ -4090,7 +4090,7 @@
     }
   },
   "amenity/bank|UOB": {
-    "count": 145,
+    "count": 147,
     "tags": {
       "amenity": "bank",
       "brand": "UOB",
@@ -4100,7 +4100,7 @@
     }
   },
   "amenity/bank|US Bank": {
-    "count": 607,
+    "count": 649,
     "match": ["amenity/bank|U.S. Bank"],
     "tags": {
       "amenity": "bank",
@@ -4121,7 +4121,7 @@
     }
   },
   "amenity/bank|Umpqua Bank": {
-    "count": 122,
+    "count": 128,
     "tags": {
       "amenity": "bank",
       "brand": "Umpqua Bank",
@@ -4131,7 +4131,7 @@
     }
   },
   "amenity/bank|UniCredit Bank": {
-    "count": 285,
+    "count": 294,
     "match": [
       "amenity/bank|UniCredit",
       "amenity/bank|Unicredit",
@@ -4146,7 +4146,7 @@
     }
   },
   "amenity/bank|Unicaja Banco": {
-    "count": 187,
+    "count": 191,
     "tags": {
       "amenity": "bank",
       "brand": "Unicaja Banco",
@@ -4156,7 +4156,7 @@
     }
   },
   "amenity/bank|Union Bank of India": {
-    "count": 53,
+    "count": 58,
     "tags": {
       "amenity": "bank",
       "brand": "Union Bank of India",
@@ -4200,7 +4200,7 @@
     }
   },
   "amenity/bank|United Bank": {
-    "count": 88,
+    "count": 92,
     "nomatch": ["amenity/fuel|United"],
     "tags": {
       "amenity": "bank",
@@ -4209,7 +4209,7 @@
     }
   },
   "amenity/bank|VR-Bank": {
-    "count": 295,
+    "count": 290,
     "match": ["amenity/bank|VR Bank"],
     "tags": {
       "amenity": "bank",
@@ -4218,7 +4218,7 @@
     }
   },
   "amenity/bank|Vakıfbank": {
-    "count": 106,
+    "count": 118,
     "tags": {
       "amenity": "bank",
       "brand": "Vakıfbank",
@@ -4228,7 +4228,7 @@
     }
   },
   "amenity/bank|Veneto Banca": {
-    "count": 63,
+    "count": 59,
     "tags": {
       "amenity": "bank",
       "brand": "Veneto Banca",
@@ -4238,7 +4238,7 @@
     }
   },
   "amenity/bank|Vijaya Bank": {
-    "count": 67,
+    "count": 74,
     "tags": {
       "amenity": "bank",
       "brand": "Vijaya Bank",
@@ -4248,7 +4248,7 @@
     }
   },
   "amenity/bank|Volksbank": {
-    "count": 2584,
+    "count": 2531,
     "tags": {
       "amenity": "bank",
       "brand": "Volksbank",
@@ -4258,7 +4258,7 @@
     }
   },
   "amenity/bank|Volksbank Köln Bonn eG": {
-    "nocount": true,
+    "count": 53,
     "tags": {
       "amenity": "bank",
       "brand": "Volksbank Köln Bonn eG",
@@ -4268,7 +4268,7 @@
     }
   },
   "amenity/bank|Volksbank Raiffeisenbank": {
-    "count": 74,
+    "count": 72,
     "match": [
       "amenity/bank|Volks- und Raiffeisenbank"
     ],
@@ -4279,7 +4279,7 @@
     }
   },
   "amenity/bank|VÚB": {
-    "count": 114,
+    "count": 115,
     "tags": {
       "amenity": "bank",
       "brand": "VÚB",
@@ -4289,7 +4289,7 @@
     }
   },
   "amenity/bank|Washington Federal": {
-    "count": 83,
+    "count": 86,
     "tags": {
       "amenity": "bank",
       "brand": "Washington Federal",
@@ -4299,7 +4299,7 @@
     }
   },
   "amenity/bank|Wells Fargo": {
-    "count": 2291,
+    "count": 2389,
     "match": ["amenity/bank|Wells Fargo Bank"],
     "tags": {
       "amenity": "bank",
@@ -4310,7 +4310,7 @@
     }
   },
   "amenity/bank|Western Union": {
-    "count": 471,
+    "count": 499,
     "nomatch": [
       "amenity/money_transfer|Western Union"
     ],
@@ -4323,7 +4323,7 @@
     }
   },
   "amenity/bank|Westpac": {
-    "count": 349,
+    "count": 361,
     "tags": {
       "amenity": "bank",
       "brand": "Westpac",
@@ -4333,7 +4333,7 @@
     }
   },
   "amenity/bank|Yapı Kredi": {
-    "count": 58,
+    "count": 66,
     "tags": {
       "amenity": "bank",
       "brand": "Yapı Kredi",
@@ -4343,7 +4343,7 @@
     }
   },
   "amenity/bank|Yorkshire Bank": {
-    "count": 93,
+    "count": 92,
     "tags": {
       "amenity": "bank",
       "brand": "Yorkshire Bank",
@@ -4353,7 +4353,7 @@
     }
   },
   "amenity/bank|Yorkshire Building Society": {
-    "count": 85,
+    "count": 96,
     "tags": {
       "amenity": "bank",
       "brand": "Yorkshire Building Society",
@@ -4363,7 +4363,7 @@
     }
   },
   "amenity/bank|Zagrebačka banka": {
-    "count": 56,
+    "count": 58,
     "tags": {
       "amenity": "bank",
       "brand": "Zagrebačka banka",
@@ -4373,7 +4373,7 @@
     }
   },
   "amenity/bank|Zenith Bank": {
-    "count": 56,
+    "count": 58,
     "tags": {
       "amenity": "bank",
       "brand": "Zenith Bank",
@@ -4383,7 +4383,7 @@
     }
   },
   "amenity/bank|Ziraat Bankası": {
-    "count": 227,
+    "count": 252,
     "tags": {
       "amenity": "bank",
       "brand": "Ziraat Bankası",
@@ -4393,7 +4393,7 @@
     }
   },
   "amenity/bank|mBank": {
-    "count": 76,
+    "count": 86,
     "tags": {
       "amenity": "bank",
       "brand": "mBank",
@@ -4403,7 +4403,7 @@
     }
   },
   "amenity/bank|ČSOB": {
-    "count": 212,
+    "count": 216,
     "tags": {
       "amenity": "bank",
       "brand": "ČSOB",
@@ -4413,7 +4413,7 @@
     }
   },
   "amenity/bank|Česká spořitelna": {
-    "count": 246,
+    "count": 245,
     "tags": {
       "amenity": "bank",
       "brand": "Česká spořitelna",
@@ -4423,7 +4423,7 @@
     }
   },
   "amenity/bank|İş Bankası": {
-    "count": 143,
+    "count": 158,
     "tags": {
       "amenity": "bank",
       "brand": "İş Bankası",
@@ -4433,7 +4433,7 @@
     }
   },
   "amenity/bank|Εθνική Τράπεζα": {
-    "count": 148,
+    "count": 150,
     "tags": {
       "amenity": "bank",
       "brand": "Εθνική Τράπεζα",
@@ -4445,7 +4445,7 @@
     }
   },
   "amenity/bank|Πειραιώς": {
-    "count": 138,
+    "count": 140,
     "tags": {
       "amenity": "bank",
       "brand": "Πειραιώς",
@@ -4453,7 +4453,7 @@
     }
   },
   "amenity/bank|Τράπεζα Πειραιώς": {
-    "count": 117,
+    "count": 114,
     "tags": {
       "amenity": "bank",
       "brand": "Τράπεζα Πειραιώς",
@@ -4465,7 +4465,7 @@
     }
   },
   "amenity/bank|Авангард": {
-    "count": 83,
+    "count": 85,
     "tags": {
       "amenity": "bank",
       "brand": "Авангард",
@@ -4473,7 +4473,7 @@
     }
   },
   "amenity/bank|Альфа-Банк": {
-    "count": 325,
+    "count": 333,
     "tags": {
       "amenity": "bank",
       "brand": "Альфа-Банк",
@@ -4485,7 +4485,7 @@
     }
   },
   "amenity/bank|Банка ДСК": {
-    "count": 79,
+    "count": 84,
     "tags": {
       "amenity": "bank",
       "brand": "Банка ДСК",
@@ -4497,7 +4497,7 @@
     }
   },
   "amenity/bank|Белагропромбанк": {
-    "count": 194,
+    "count": 196,
     "countryCodes": ["by"],
     "tags": {
       "amenity": "bank",
@@ -4510,7 +4510,7 @@
     }
   },
   "amenity/bank|Беларусбанк": {
-    "count": 595,
+    "count": 601,
     "tags": {
       "amenity": "bank",
       "brand": "Беларусбанк",
@@ -4522,7 +4522,7 @@
     }
   },
   "amenity/bank|Белинвестбанк": {
-    "count": 73,
+    "count": 72,
     "tags": {
       "amenity": "bank",
       "brand": "Белинвестбанк",
@@ -4532,7 +4532,7 @@
     }
   },
   "amenity/bank|Бинбанк": {
-    "count": 128,
+    "count": 132,
     "tags": {
       "amenity": "bank",
       "brand": "Бинбанк",
@@ -4544,7 +4544,7 @@
     }
   },
   "amenity/bank|ВТБ": {
-    "count": 771,
+    "count": 783,
     "match": ["amenity/bank|ВТБ Банк Москвы"],
     "tags": {
       "amenity": "bank",
@@ -4557,7 +4557,7 @@
     }
   },
   "amenity/bank|Возрождение": {
-    "count": 85,
+    "count": 87,
     "tags": {
       "amenity": "bank",
       "brand": "Возрождение",
@@ -4567,7 +4567,7 @@
     }
   },
   "amenity/bank|Газпромбанк": {
-    "count": 183,
+    "count": 186,
     "tags": {
       "amenity": "bank",
       "brand": "Газпромбанк",
@@ -4579,7 +4579,7 @@
     }
   },
   "amenity/bank|Генбанк": {
-    "count": 114,
+    "count": 113,
     "tags": {
       "amenity": "bank",
       "brand": "Генбанк",
@@ -4587,7 +4587,7 @@
     }
   },
   "amenity/bank|Казкоммерцбанк": {
-    "count": 75,
+    "count": 74,
     "tags": {
       "amenity": "bank",
       "brand": "Казкоммерцбанк",
@@ -4599,7 +4599,7 @@
     }
   },
   "amenity/bank|Московский индустриальный банк": {
-    "count": 60,
+    "count": 62,
     "tags": {
       "amenity": "bank",
       "brand": "Московский индустриальный банк",
@@ -4611,7 +4611,7 @@
     }
   },
   "amenity/bank|Мособлбанк": {
-    "count": 55,
+    "count": 53,
     "tags": {
       "amenity": "bank",
       "brand": "Мособлбанк",
@@ -4623,7 +4623,7 @@
     }
   },
   "amenity/bank|Народный банк": {
-    "count": 70,
+    "count": 69,
     "tags": {
       "amenity": "bank",
       "brand": "Народный банк",
@@ -4631,7 +4631,7 @@
     }
   },
   "amenity/bank|ОТП Банк": {
-    "count": 63,
+    "count": 64,
     "tags": {
       "amenity": "bank",
       "brand": "ОТП Банк",
@@ -4643,7 +4643,7 @@
     }
   },
   "amenity/bank|Обединена Българска Банка": {
-    "count": 58,
+    "count": 59,
     "tags": {
       "amenity": "bank",
       "brand": "Обединена Българска Банка",
@@ -4655,7 +4655,7 @@
     }
   },
   "amenity/bank|Открытие": {
-    "count": 119,
+    "count": 131,
     "match": ["amenity/bank|Банк \"Открытие\""],
     "tags": {
       "amenity": "bank",
@@ -4664,7 +4664,7 @@
     }
   },
   "amenity/bank|Ощадбанк": {
-    "count": 958,
+    "count": 975,
     "countryCodes": ["ua"],
     "tags": {
       "amenity": "bank",
@@ -4677,7 +4677,7 @@
     }
   },
   "amenity/bank|ПУМБ": {
-    "count": 87,
+    "count": 89,
     "countryCodes": ["ua"],
     "tags": {
       "amenity": "bank",
@@ -4690,7 +4690,7 @@
     }
   },
   "amenity/bank|Почта Банк": {
-    "count": 160,
+    "count": 197,
     "tags": {
       "amenity": "bank",
       "brand": "Почта Банк",
@@ -4702,7 +4702,7 @@
     }
   },
   "amenity/bank|ПриватБанк": {
-    "count": 1060,
+    "count": 1071,
     "match": ["amenity/bank|Приватбанк"],
     "tags": {
       "amenity": "bank",
@@ -4715,7 +4715,7 @@
     }
   },
   "amenity/bank|Приорбанк": {
-    "count": 71,
+    "count": 67,
     "tags": {
       "amenity": "bank",
       "brand": "Приорбанк",
@@ -4727,7 +4727,7 @@
     }
   },
   "amenity/bank|Промсвязьбанк": {
-    "count": 140,
+    "count": 139,
     "tags": {
       "amenity": "bank",
       "brand": "Промсвязьбанк",
@@ -4739,7 +4739,7 @@
     }
   },
   "amenity/bank|РНКБ": {
-    "count": 64,
+    "count": 65,
     "tags": {
       "amenity": "bank",
       "brand": "РНКБ",
@@ -4749,7 +4749,7 @@
     }
   },
   "amenity/bank|Райффайзен": {
-    "count": 100,
+    "count": 98,
     "tags": {
       "amenity": "bank",
       "brand": "Райффайзен",
@@ -4761,7 +4761,7 @@
     }
   },
   "amenity/bank|Райффайзен Банк Аваль": {
-    "count": 141,
+    "count": 146,
     "tags": {
       "amenity": "bank",
       "brand": "Райффайзен Банк Аваль",
@@ -4773,7 +4773,7 @@
     }
   },
   "amenity/bank|Росбанк": {
-    "count": 222,
+    "count": 225,
     "tags": {
       "amenity": "bank",
       "brand": "Росбанк",
@@ -4785,7 +4785,7 @@
     }
   },
   "amenity/bank|Россельхозбанк": {
-    "count": 414,
+    "count": 426,
     "tags": {
       "amenity": "bank",
       "brand": "Россельхозбанк",
@@ -4809,7 +4809,7 @@
     }
   },
   "amenity/bank|Сбербанк": {
-    "count": 6955,
+    "count": 7121,
     "match": [
       "amenity/bank|Приднестровский Сбербанк",
       "amenity/bank|Сбербанк России"
@@ -4825,7 +4825,7 @@
     }
   },
   "amenity/bank|Совкомбанк": {
-    "count": 251,
+    "count": 280,
     "tags": {
       "amenity": "bank",
       "brand": "Совкомбанк",
@@ -4837,7 +4837,7 @@
     }
   },
   "amenity/bank|УкрСиббанк": {
-    "count": 200,
+    "count": 201,
     "tags": {
       "amenity": "bank",
       "brand": "УкрСиббанк",
@@ -4849,7 +4849,7 @@
     }
   },
   "amenity/bank|Укргазбанк": {
-    "count": 54,
+    "count": 57,
     "tags": {
       "amenity": "bank",
       "brand": "Укргазбанк",
@@ -4861,7 +4861,7 @@
     }
   },
   "amenity/bank|Укрсоцбанк": {
-    "count": 60,
+    "count": 56,
     "tags": {
       "amenity": "bank",
       "brand": "Укрсоцбанк",
@@ -4873,7 +4873,7 @@
     }
   },
   "amenity/bank|Уралсиб": {
-    "count": 134,
+    "count": 137,
     "tags": {
       "amenity": "bank",
       "brand": "Уралсиб",
@@ -4885,7 +4885,7 @@
     }
   },
   "amenity/bank|Хаан банк": {
-    "count": 52,
+    "count": 54,
     "countryCodes": ["mn"],
     "tags": {
       "amenity": "bank",
@@ -4896,7 +4896,7 @@
     }
   },
   "amenity/bank|Хоум Кредит": {
-    "count": 53,
+    "count": 54,
     "tags": {
       "amenity": "bank",
       "brand": "Хоум Кредит",
@@ -4908,7 +4908,7 @@
     }
   },
   "amenity/bank|בנק הפועלים": {
-    "count": 119,
+    "count": 122,
     "countryCodes": ["il"],
     "tags": {
       "amenity": "bank",
@@ -4934,7 +4934,7 @@
     }
   },
   "amenity/bank|بانک آینده": {
-    "count": 83,
+    "count": 95,
     "tags": {
       "amenity": "bank",
       "brand": "بانک آینده",
@@ -4946,7 +4946,7 @@
     }
   },
   "amenity/bank|بانک اقتصاد نوین": {
-    "count": 93,
+    "count": 103,
     "tags": {
       "amenity": "bank",
       "brand": "بانک اقتصاد نوین",
@@ -4958,7 +4958,7 @@
     }
   },
   "amenity/bank|بانک انصار": {
-    "count": 174,
+    "count": 212,
     "tags": {
       "amenity": "bank",
       "brand": "بانک انصار",
@@ -4966,7 +4966,7 @@
     }
   },
   "amenity/bank|بانک ایران زمین": {
-    "nocount": true,
+    "count": 54,
     "tags": {
       "amenity": "bank",
       "brand": "بانک ایران زمین",
@@ -4976,7 +4976,7 @@
     }
   },
   "amenity/bank|بانک تجارت": {
-    "count": 518,
+    "count": 574,
     "tags": {
       "amenity": "bank",
       "brand": "بانک تجارت",
@@ -4984,7 +4984,7 @@
     }
   },
   "amenity/bank|بانک توسعه تعاون": {
-    "count": 54,
+    "count": 59,
     "tags": {
       "amenity": "bank",
       "brand": "بانک توسعه تعاون",
@@ -4992,7 +4992,7 @@
     }
   },
   "amenity/bank|بانک رفاه": {
-    "count": 182,
+    "count": 197,
     "match": ["amenity/bank|بانک رفاه کارگران"],
     "tags": {
       "amenity": "bank",
@@ -5005,7 +5005,7 @@
     }
   },
   "amenity/bank|بانک سامان": {
-    "count": 68,
+    "count": 73,
     "tags": {
       "amenity": "bank",
       "brand": "بانک سامان",
@@ -5017,7 +5017,7 @@
     }
   },
   "amenity/bank|بانک سرمایه": {
-    "count": 56,
+    "count": 59,
     "tags": {
       "amenity": "bank",
       "brand": "بانک سرمایه",
@@ -5029,7 +5029,7 @@
     }
   },
   "amenity/bank|بانک سپه": {
-    "count": 519,
+    "count": 582,
     "tags": {
       "amenity": "bank",
       "brand": "بانک سپه",
@@ -5041,7 +5041,7 @@
     }
   },
   "amenity/bank|بانک سینا": {
-    "count": 71,
+    "count": 80,
     "tags": {
       "amenity": "bank",
       "brand": "بانک سینا",
@@ -5053,7 +5053,7 @@
     }
   },
   "amenity/bank|بانک شهر": {
-    "count": 139,
+    "count": 152,
     "tags": {
       "amenity": "bank",
       "brand": "بانک شهر",
@@ -5065,7 +5065,7 @@
     }
   },
   "amenity/bank|بانک صادرات": {
-    "count": 733,
+    "count": 822,
     "match": ["amenity/bank|بانک صادرات ایران"],
     "tags": {
       "amenity": "bank",
@@ -5078,7 +5078,7 @@
     }
   },
   "amenity/bank|بانک قوامین": {
-    "count": 153,
+    "count": 170,
     "tags": {
       "amenity": "bank",
       "brand": "بانک قوامین",
@@ -5090,7 +5090,7 @@
     }
   },
   "amenity/bank|بانک مسکن": {
-    "count": 429,
+    "count": 483,
     "tags": {
       "amenity": "bank",
       "brand": "بانک مسکن",
@@ -5102,7 +5102,7 @@
     }
   },
   "amenity/bank|بانک ملت": {
-    "count": 639,
+    "count": 703,
     "tags": {
       "amenity": "bank",
       "brand": "بانک ملت",
@@ -5114,7 +5114,7 @@
     }
   },
   "amenity/bank|بانک ملی": {
-    "count": 927,
+    "count": 1001,
     "tags": {
       "amenity": "bank",
       "brand": "بانک ملی",
@@ -5122,7 +5122,7 @@
     }
   },
   "amenity/bank|بانک ملی ایران": {
-    "count": 120,
+    "count": 153,
     "tags": {
       "amenity": "bank",
       "brand": "بانک ملی ایران",
@@ -5134,7 +5134,7 @@
     }
   },
   "amenity/bank|بانک مهر اقتصاد": {
-    "count": 127,
+    "count": 139,
     "tags": {
       "amenity": "bank",
       "brand": "بانک مهر اقتصاد",
@@ -5142,7 +5142,7 @@
     }
   },
   "amenity/bank|بانک پارسیان": {
-    "count": 140,
+    "count": 164,
     "tags": {
       "amenity": "bank",
       "brand": "بانک پارسیان",
@@ -5154,7 +5154,7 @@
     }
   },
   "amenity/bank|بانک پاسارگاد": {
-    "count": 139,
+    "count": 152,
     "tags": {
       "amenity": "bank",
       "brand": "بانک پاسارگاد",
@@ -5166,7 +5166,7 @@
     }
   },
   "amenity/bank|بانک کشاورزی": {
-    "count": 482,
+    "count": 545,
     "tags": {
       "amenity": "bank",
       "brand": "بانک کشاورزی",
@@ -5178,7 +5178,7 @@
     }
   },
   "amenity/bank|صادرات": {
-    "count": 83,
+    "count": 82,
     "tags": {
       "amenity": "bank",
       "brand": "صادرات",
@@ -5194,7 +5194,7 @@
     }
   },
   "amenity/bank|پست بانک": {
-    "count": 113,
+    "count": 139,
     "tags": {
       "amenity": "bank",
       "brand": "پست بانک",
@@ -5206,7 +5206,7 @@
     }
   },
   "amenity/bank|ธนาคารกรุงเทพ": {
-    "count": 127,
+    "count": 126,
     "countryCodes": ["th"],
     "tags": {
       "amenity": "bank",
@@ -5219,7 +5219,7 @@
     }
   },
   "amenity/bank|ธนาคารกรุงไทย": {
-    "count": 95,
+    "count": 96,
     "countryCodes": ["th"],
     "tags": {
       "amenity": "bank",
@@ -5232,7 +5232,7 @@
     }
   },
   "amenity/bank|ธนาคารกสิกรไทย": {
-    "count": 111,
+    "count": 114,
     "countryCodes": ["th"],
     "tags": {
       "amenity": "bank",
@@ -5245,7 +5245,7 @@
     }
   },
   "amenity/bank|ธนาคารออมสิน": {
-    "count": 78,
+    "count": 81,
     "countryCodes": ["th"],
     "tags": {
       "amenity": "bank",
@@ -5258,7 +5258,7 @@
     }
   },
   "amenity/bank|ธนาคารไทยพาณิชย์": {
-    "count": 105,
+    "count": 106,
     "countryCodes": ["th"],
     "tags": {
       "amenity": "bank",
@@ -5271,7 +5271,7 @@
     }
   },
   "amenity/bank|みずほ銀行": {
-    "count": 269,
+    "count": 274,
     "countryCodes": ["jp"],
     "tags": {
       "amenity": "bank",
@@ -5284,7 +5284,7 @@
     }
   },
   "amenity/bank|りそな銀行": {
-    "count": 163,
+    "count": 166,
     "countryCodes": ["jp"],
     "tags": {
       "amenity": "bank",
@@ -5295,7 +5295,7 @@
     }
   },
   "amenity/bank|三井住友銀行": {
-    "count": 225,
+    "count": 238,
     "tags": {
       "amenity": "bank",
       "brand": "三井住友銀行",
@@ -5307,7 +5307,7 @@
     }
   },
   "amenity/bank|三菱東京UFJ銀行": {
-    "count": 242,
+    "count": 239,
     "tags": {
       "amenity": "bank",
       "brand": "三菱東京UFJ銀行",
@@ -5331,7 +5331,7 @@
     }
   },
   "amenity/bank|中信银行": {
-    "nocount": true,
+    "count": 53,
     "tags": {
       "amenity": "bank",
       "brand": "中信银行",
@@ -5342,7 +5342,7 @@
     }
   },
   "amenity/bank|中国农业银行": {
-    "count": 248,
+    "count": 267,
     "tags": {
       "amenity": "bank",
       "brand": "中国农业银行",
@@ -5354,7 +5354,7 @@
     }
   },
   "amenity/bank|中国工商银行": {
-    "count": 258,
+    "count": 276,
     "tags": {
       "amenity": "bank",
       "brand": "中国工商银行",
@@ -5366,7 +5366,7 @@
     }
   },
   "amenity/bank|中国建设银行": {
-    "count": 211,
+    "count": 227,
     "tags": {
       "amenity": "bank",
       "brand": "中国建设银行",
@@ -5378,7 +5378,7 @@
     }
   },
   "amenity/bank|中国邮政储蓄银行": {
-    "count": 107,
+    "count": 122,
     "tags": {
       "amenity": "bank",
       "brand": "中国邮政储蓄银行",
@@ -5390,7 +5390,7 @@
     }
   },
   "amenity/bank|中国银行": {
-    "count": 327,
+    "count": 345,
     "tags": {
       "amenity": "bank",
       "brand": "中国银行",
@@ -5402,7 +5402,7 @@
     }
   },
   "amenity/bank|中國信託商業銀行": {
-    "count": 153,
+    "count": 152,
     "tags": {
       "amenity": "bank",
       "brand": "中國信託商業銀行",
@@ -5414,7 +5414,7 @@
     }
   },
   "amenity/bank|交通银行": {
-    "count": 90,
+    "count": 99,
     "tags": {
       "amenity": "bank",
       "brand": "交通银行",
@@ -5461,7 +5461,7 @@
     }
   },
   "amenity/bank|元大商業銀行": {
-    "count": 88,
+    "count": 91,
     "tags": {
       "amenity": "bank",
       "brand": "元大商業銀行",
@@ -5485,7 +5485,7 @@
     }
   },
   "amenity/bank|农业银行": {
-    "count": 88,
+    "count": 90,
     "tags": {
       "amenity": "bank",
       "brand": "农业银行",
@@ -5495,7 +5495,7 @@
     }
   },
   "amenity/bank|北洋銀行": {
-    "count": 65,
+    "count": 66,
     "countryCodes": ["jp"],
     "tags": {
       "amenity": "bank",
@@ -5508,7 +5508,7 @@
     }
   },
   "amenity/bank|北海道銀行": {
-    "count": 57,
+    "count": 58,
     "tags": {
       "amenity": "bank",
       "brand": "北海道銀行",
@@ -5556,7 +5556,7 @@
     }
   },
   "amenity/bank|合作金庫商業銀行": {
-    "count": 272,
+    "count": 270,
     "tags": {
       "amenity": "bank",
       "brand": "合作金庫商業銀行",
@@ -5580,7 +5580,7 @@
     }
   },
   "amenity/bank|大眾商業銀行": {
-    "count": 64,
+    "count": 60,
     "tags": {
       "amenity": "bank",
       "brand": "大眾商業銀行",
@@ -5604,7 +5604,7 @@
     }
   },
   "amenity/bank|工商银行": {
-    "count": 169,
+    "count": 172,
     "tags": {
       "amenity": "bank",
       "brand": "工商银行",
@@ -5616,7 +5616,7 @@
     }
   },
   "amenity/bank|建设银行": {
-    "count": 104,
+    "count": 107,
     "tags": {
       "amenity": "bank",
       "brand": "建设银行",
@@ -5626,7 +5626,7 @@
     }
   },
   "amenity/bank|彰化商業銀行": {
-    "count": 182,
+    "count": 181,
     "tags": {
       "amenity": "bank",
       "brand": "彰化商業銀行",
@@ -5638,7 +5638,7 @@
     }
   },
   "amenity/bank|招商银行": {
-    "count": 111,
+    "count": 115,
     "tags": {
       "amenity": "bank",
       "brand": "招商银行",
@@ -5662,7 +5662,7 @@
     }
   },
   "amenity/bank|横浜銀行": {
-    "count": 97,
+    "count": 102,
     "tags": {
       "amenity": "bank",
       "brand": "横浜銀行",
@@ -5732,7 +5732,7 @@
     }
   },
   "amenity/bank|臺灣中小企業銀行": {
-    "count": 127,
+    "count": 126,
     "tags": {
       "amenity": "bank",
       "brand": "臺灣中小企業銀行",
@@ -5792,7 +5792,7 @@
     }
   },
   "amenity/bank|遠東國際商業銀行": {
-    "count": 57,
+    "count": 56,
     "tags": {
       "amenity": "bank",
       "brand": "遠東國際商業銀行",
@@ -5804,7 +5804,7 @@
     }
   },
   "amenity/bank|陽信商業銀行": {
-    "count": 106,
+    "count": 107,
     "tags": {
       "amenity": "bank",
       "brand": "陽信商業銀行",
@@ -5816,7 +5816,7 @@
     }
   },
   "amenity/bank|静岡銀行": {
-    "count": 56,
+    "count": 60,
     "tags": {
       "amenity": "bank",
       "brand": "静岡銀行",
@@ -5828,7 +5828,7 @@
     }
   },
   "amenity/bank|국민은행": {
-    "count": 145,
+    "count": 210,
     "countryCodes": ["kr"],
     "match": ["amenity/bank|국민은행 (Gungmin Bank)"],
     "tags": {
@@ -5855,7 +5855,7 @@
     }
   },
   "amenity/bank|농협": {
-    "count": 187,
+    "count": 198,
     "countryCodes": ["kr"],
     "tags": {
       "amenity": "bank",
@@ -5864,7 +5864,7 @@
     }
   },
   "amenity/bank|새마을금고": {
-    "count": 120,
+    "count": 124,
     "countryCodes": ["kr"],
     "tags": {
       "amenity": "bank",
@@ -5873,7 +5873,7 @@
     }
   },
   "amenity/bank|신한은행": {
-    "count": 157,
+    "count": 263,
     "countryCodes": ["kr"],
     "match": ["amenity/bank|신한은행 (Sinhan Bank)"],
     "tags": {
@@ -5887,7 +5887,7 @@
     }
   },
   "amenity/bank|우리은행": {
-    "count": 182,
+    "count": 328,
     "countryCodes": ["kr"],
     "match": ["amenity/bank|우리은행 (Uri Bank)"],
     "tags": {
@@ -5901,7 +5901,7 @@
     }
   },
   "amenity/bank|하나은행": {
-    "count": 84,
+    "count": 108,
     "countryCodes": ["kr"],
     "tags": {
       "amenity": "bank",
